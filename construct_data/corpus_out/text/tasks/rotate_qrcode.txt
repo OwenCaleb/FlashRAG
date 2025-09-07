@@ -1,0 +1,20 @@
+Rotate QRcode - RoboTwin 2.0 Offical Document
+# Rotate QRcode
+Description
+: Use arm to catch the qrcode board on the table, pick it up and rotate to let the qrcode face towards the robot.
+Average Steps
+: 155 (Aloha-AgileX, save_freq=15)
+Objects
+: 070_paymentsign
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+75%
+74%
+94%
+0%
+67%

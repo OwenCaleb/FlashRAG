@@ -1,0 +1,6 @@
+082_Smallshovel - RoboTwin 2.0 Offical Document
+# 082_Smallshovel
+base0
+base1
+base2
+base3

@@ -1,0 +1,20 @@
+Beat Block Hammer - RoboTwin 2.0 Offical Document
+# Beat Block Hammer
+Description
+: There is a hammer and a block on the table, use the arm to grab the hammer and beat the block.
+Average Steps
+: 113 (Aloha-AgileX, save_freq=15)
+Objects
+: 020_hammer, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+64%
+93%
+98%
+15%
+90%

@@ -1,0 +1,20 @@
+Place Cans Plasticbox - RoboTwin 2.0 Offical Document
+# Place Cans Plasticbox
+Description
+: Use dual arm to pick and place cans into plasticbox.
+Average Steps
+: 289 (Aloha-AgileX, save_freq=15)
+Objects
+: 062_plasticbox, 071_can
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+100%
+96%
+85%
+0%
+82%

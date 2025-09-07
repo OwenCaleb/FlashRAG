@@ -1,0 +1,20 @@
+Place A2B Left - RoboTwin 2.0 Offical Document
+# Place A2B Left
+Description
+: Use appropriate arm to place object A on the left of object B.
+Average Steps
+: 155 (Aloha-AgileX, save_freq=15)
+Objects
+: 047_mouse, 048_stapler, 050_bell, 057_toycar, 073_rubikscube, 075_bread, 077_phone, 081_playingcards, 086_woodenblock, 107_soap, 112_tea-box, 113_coffee-box
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+80%
+88%
+64%
+28%
+76%

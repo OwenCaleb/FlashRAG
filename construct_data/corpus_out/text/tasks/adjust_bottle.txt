@@ -1,0 +1,20 @@
+Adjust Bottle - RoboTwin 2.0 Offical Document
+# Adjust Bottle
+Description
+: Pick up the bottle on the table headup with the correct arm.
+Average Steps
+: 147 (Aloha-AgileX, save_freq=15)
+Objects
+: 001_bottle
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+93%
+94%
+34%
+0%
+12%

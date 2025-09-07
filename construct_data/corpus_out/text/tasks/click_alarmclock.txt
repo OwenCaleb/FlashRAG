@@ -1,0 +1,20 @@
+Click Alarmclock - RoboTwin 2.0 Offical Document
+# Click Alarmclock
+Description
+: Click the alarm clock's center of the top side button on the table.
+Average Steps
+: 85 (Aloha-AgileX, save_freq=15)
+Objects
+: 046_alarm-clock
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+92%
+99%
+100%
+0%
+95%

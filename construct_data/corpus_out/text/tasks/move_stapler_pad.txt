@@ -1,0 +1,20 @@
+Move Stapler Pad - RoboTwin 2.0 Offical Document
+# Move Stapler Pad
+Description
+: Use appropriate arm to move the stapler to a colored mat.
+Average Steps
+: 152 (Aloha-AgileX, save_freq=15)
+Objects
+: 048_stapler
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+92%
+96%
+89%
+13%
+75%

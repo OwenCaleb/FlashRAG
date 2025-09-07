@@ -1,0 +1,19 @@
+Contributions - RoboTwin 2.0 Offical Document
+Skip to content
+# Contributions
+## Project Leaders ¶
+Tianxing Chen, Yao Mu, Zhixuan Liang
+## 1. Roadmap & Methodology ¶
+Yao Mu, Tianxing Chen, Ping Luo, Yusen Qin, Xiaokang Yang, Kaixuan Wang
+## 2. Data Generator & Benchmark ¶
+Tianxing Chen, Zanxin Chen, Baijun Chen, Qiwei Liang, Zixuan Li, Xianliang Lin
+## 3. CodeGen Agent ¶
+Yibin Liu, Zanxin Chen, Yiheng Ge, Tianxing Chen, Mengkang Hu
+## 4. RoboTwin-OD ¶
+Baijun Chen, Qiangyu Chen, Kailun Su, Xuanbing Xie, Zanxin Chen
+## 5. Policies Training & Evaluation ¶
+Tianxing Chen, Zijian Cai, Tian Nian, Huan-ang Gao, Tianling Xu
+## 6. Real-World Deployment ¶
+Tianxing Chen, Tian Nian, Weiliang Deng
+## 7. Domain Randomization ¶
+Baijun Chen, Yubin Guo, Qiwei Liang, Zhenyu Gu, Guodong Liu, Zanxin Chen, Tianxing Chen

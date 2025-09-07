@@ -1,0 +1,20 @@
+Place Empty Cup - RoboTwin 2.0 Offical Document
+# Place Empty Cup
+Description
+: Use an arm to place the empty cup on the coaster.
+Average Steps
+: 174 (Aloha-AgileX, save_freq=15)
+Objects
+: 019_coaster, 021_cup
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+92%
+100%
+100%
+4%
+100%

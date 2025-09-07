@@ -1,0 +1,20 @@
+Put Object Cabinet - RoboTwin 2.0 Offical Document
+# Put Object Cabinet
+Description
+: Use one arm to open the cabinet's drawer, and use another arm to put the object on the table to the drawer.
+Average Steps
+: 274 (Aloha-AgileX, save_freq=15)
+Objects
+: 036_cabinet, 047_mouse, 048_stapler, 057_toycar, 073_rubikscube, 075_bread, 077_phone, 081_playingcards, 107_soap, 112_tea-box, 113_coffee-box
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+14%
+24%
+55%
+0%
+0%

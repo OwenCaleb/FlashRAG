@@ -1,0 +1,5 @@
+Domain Randomization - RoboTwin 2.0 Offical Document
+Skip to content
+# Domain Randomization ¶
+RoboTwin’s domain randomization primarily focuses on scene clutter, random lighting, over 12,000 tabletop textures, randomized tabletop heights, and camera viewpoint perturbations. The corresponding configuration options can be found at: 👉
+RoboTwin 2.0 Document (Usage: Configurations)

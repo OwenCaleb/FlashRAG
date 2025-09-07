@@ -1,0 +1,20 @@
+Scan Object - RoboTwin 2.0 Offical Document
+# Scan Object
+Description
+: Use one arm to pick the scanner and use the other arm to pick the object, and use the scanner to scan the object.
+Average Steps
+: 170 (Aloha-AgileX, save_freq=15)
+Objects
+: 024_scanner, 112_tea-box
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+4%
+45%
+26%
+0%
+19%

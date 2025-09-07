@@ -1,0 +1,20 @@
+Open Microwave - RoboTwin 2.0 Offical Document
+# Open Microwave
+Description
+: Use one arm to open the microwave.
+Average Steps
+: 537 (Aloha-AgileX, save_freq=15)
+Objects
+: 044_microwave
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+96%
+80%
+59%
+2%
+23%

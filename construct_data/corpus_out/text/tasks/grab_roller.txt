@@ -1,0 +1,20 @@
+Grab Roller - RoboTwin 2.0 Offical Document
+# Grab Roller
+Description
+: Use both arms to grab the roller on the table.
+Average Steps
+: 94 (Aloha-AgileX, save_freq=15)
+Objects
+: 102_roller
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+95%
+69%
+99%
+7%
+81%

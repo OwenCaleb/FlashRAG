@@ -1,0 +1,20 @@
+Place Dual Shoes - RoboTwin 2.0 Offical Document
+# Place Dual Shoes
+Description
+: Use both arms to pick up the two shoes on the table and put them in the shoebox, with the shoe tip pointing to the left.
+Average Steps
+: 228 (Aloha-AgileX, save_freq=15)
+Objects
+: 007_shoe-box, 041_shoe
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+77%
+31%
+41%
+1%
+32%

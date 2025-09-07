@@ -1,0 +1,20 @@
+Place Object Stand - RoboTwin 2.0 Offical Document
+# Place Object Stand
+Description
+: Use appropriate arm to place the object on the stand.
+Average Steps
+: 138 (Aloha-AgileX, save_freq=15)
+Objects
+: 047_mouse, 048_stapler, 050_bell, 057_toycar, 073_rubikscube, 074_displaystand, 079_remotecontrol
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+97%
+99%
+81%
+9%
+92%

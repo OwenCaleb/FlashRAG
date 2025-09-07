@@ -1,0 +1,20 @@
+Press Stapler - RoboTwin 2.0 Offical Document
+# Press Stapler
+Description
+: Use one arm to press the stapler.
+Average Steps
+: 141 (Aloha-AgileX, save_freq=15)
+Objects
+: 048_stapler
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+98%
+96%
+100%
+59%
+72%

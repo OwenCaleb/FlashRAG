@@ -1,0 +1,20 @@
+Hanging Mug - RoboTwin 2.0 Offical Document
+# Hanging Mug
+Description
+: Use left arm to pick the mug on the table, rotate the mug and put the mug down in the middle of the table, use the right arm to pick the mug and hang it onto the rack.
+Average Steps
+: 340 (Aloha-AgileX, save_freq=15)
+Objects
+: 039_mug, 040_rack
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+63%
+73%
+11%
+0%
+11%

@@ -1,0 +1,20 @@
+Place Mouse Pad - RoboTwin 2.0 Offical Document
+# Place Mouse Pad
+Description
+: Grab the mouse and place it on a colored mat.
+Average Steps
+: 149 (Aloha-AgileX, save_freq=15)
+Objects
+: 047_mouse, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+99%
+89%
+100%
+23%
+73%

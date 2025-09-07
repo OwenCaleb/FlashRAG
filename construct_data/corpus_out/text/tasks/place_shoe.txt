@@ -1,0 +1,20 @@
+Place Shoe - RoboTwin 2.0 Offical Document
+# Place Shoe
+Description
+: Use one arm to grab the shoe from the table and place it on the mat.
+Average Steps
+: 178 (Aloha-AgileX, save_freq=15)
+Objects
+: 041_shoe, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+84%
+85%
+74%
+7%
+91%

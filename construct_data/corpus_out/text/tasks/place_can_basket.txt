@@ -1,0 +1,20 @@
+Place Can Basket - RoboTwin 2.0 Offical Document
+# Place Can Basket
+Description
+: Use one arm to pick up the can, put it into the basket, and use another arm to lift the basket
+Average Steps
+: 255 (Aloha-AgileX, save_freq=15)
+Objects
+: 071_can, 110_basket
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+70%
+28%
+61%
+0%
+3%

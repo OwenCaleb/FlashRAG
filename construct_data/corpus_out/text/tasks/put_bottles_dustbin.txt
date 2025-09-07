@@ -1,0 +1,20 @@
+Put Bottles Dustbin - RoboTwin 2.0 Offical Document
+# Put Bottles Dustbin
+Description
+: Use arms to grab the bottles and put them into the dustbin to the left of the table.
+Average Steps
+: 637 (Aloha-AgileX, save_freq=15)
+Objects
+: 011_dustbin, 114_bottle
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+71%
+1%
+0%
+56%
+0%

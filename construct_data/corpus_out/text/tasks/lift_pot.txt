@@ -1,0 +1,20 @@
+Lift Pot - RoboTwin 2.0 Offical Document
+# Lift Pot
+Description
+: Use arms to lift the pot.
+Average Steps
+: 112 (Aloha-AgileX, save_freq=15)
+Objects
+: 060_kitchenpot
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+27%
+50%
+36%
+31%
+40%

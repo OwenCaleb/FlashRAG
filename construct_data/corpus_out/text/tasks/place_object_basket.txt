@@ -1,0 +1,20 @@
+Place Object Basket - RoboTwin 2.0 Offical Document
+# Place Object Basket
+Description
+: Use one arm to grab the target object and put it in the basket, then use the other arm to grab the basket, and finally move the basket slightly away.
+Average Steps
+: 252 (Aloha-AgileX, save_freq=15)
+Objects
+: 057_toycar, 081_playingcards, 110_basket
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+74%
+14%
+61%
+0%
+7%

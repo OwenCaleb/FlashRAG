@@ -1,0 +1,20 @@
+Place Fan - RoboTwin 2.0 Offical Document
+# Place Fan
+Description
+: Grab the fan and place it on a colored mat, and make sure the fan is facing the robot.
+Average Steps
+: 148 (Aloha-AgileX, save_freq=15)
+Objects
+: 099_fan, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+95%
+93%
+83%
+0%
+65%

@@ -1,0 +1,20 @@
+Move Can Pot - RoboTwin 2.0 Offical Document
+# Move Can Pot
+Description
+: There is a can and a pot on the table, use one arm to pick up the can and move it to beside the pot.
+Average Steps
+: 151 (Aloha-AgileX, save_freq=15)
+Objects
+: 060_kitchenpot, 105_sauce-can
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+93%
+65%
+92%
+96%
+99%

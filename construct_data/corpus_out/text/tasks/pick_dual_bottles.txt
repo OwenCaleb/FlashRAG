@@ -1,0 +1,20 @@
+Pick Dual Bottles - RoboTwin 2.0 Offical Document
+# Pick Dual Bottles
+Description
+: Pick up one bottle with one arm, and pick up another bottle with the other arm.
+Average Steps
+: 127 (Aloha-AgileX, save_freq=15)
+Objects
+: 001_bottle
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+92%
+6%
+0%
+81%
+7%

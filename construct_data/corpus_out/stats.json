@@ -1,0 +1,8 @@
+{
+  "pages_fetched": 403,
+  "pages_skipped": 0,
+  "pages_failed": 4,
+  "chunks_written": 403,
+  "chunks_deduped": 203,
+  "queue_peek": 20126
+}

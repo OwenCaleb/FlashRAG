@@ -1,0 +1,20 @@
+Blocks Ranking Size - RoboTwin 2.0 Offical Document
+# Blocks Ranking Size
+Description
+: There are three blocks on the table, the color of the blocks is random, move the blocks to the center of the table, and arrange them from largest to smallest, from left to right.
+Average Steps
+: 466 (Aloha-AgileX, save_freq=15)
+Objects
+: block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+96%
+97%
+89%
+7%
+38%

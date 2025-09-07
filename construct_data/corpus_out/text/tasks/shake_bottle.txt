@@ -1,0 +1,20 @@
+Shake Bottle - RoboTwin 2.0 Offical Document
+# Shake Bottle
+Description
+: Shake the bottle with proper arm.
+Average Steps
+: 246 (Aloha-AgileX, save_freq=15)
+Objects
+: 001_bottle
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+89%
+94%
+85%
+74%
+97%

@@ -1,0 +1,20 @@
+Move Playingcard Away - RoboTwin 2.0 Offical Document
+# Move Playingcard Away
+Description
+: Use the arm to pick up the playing card and move it away from the table. For example, if the playing card is on the outward side of the table, you should move it further outward side of the table.
+Average Steps
+: 120 (Aloha-AgileX, save_freq=15)
+Objects
+: 081_playingcards
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+99%
+100%
+100%
+63%
+66%

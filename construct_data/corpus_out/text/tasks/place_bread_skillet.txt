@@ -1,0 +1,20 @@
+Place Bread Skillet - RoboTwin 2.0 Offical Document
+# Place Bread Skillet
+Description
+: If there is one bread on the table, use one arm to grab the bread and put it into the skillet.
+Average Steps
+: 162 (Aloha-AgileX, save_freq=15)
+Objects
+: 075_bread, 106_skillet
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+34%
+26%
+42%
+0%
+37%

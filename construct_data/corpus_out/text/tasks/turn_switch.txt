@@ -1,0 +1,20 @@
+Turn Switch - RoboTwin 2.0 Offical Document
+# Turn Switch
+Description
+: Use the robotic arm to click the switch.
+Average Steps
+: 95 (Aloha-AgileX, save_freq=15)
+Objects
+: 056_switch
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+74%
+3%
+36%
+81%
+10%

@@ -1,0 +1,20 @@
+Place Bread Basket - RoboTwin 2.0 Offical Document
+# Place Bread Basket
+Description
+: If there is one bread on the table, use one arm to grab the bread and put it in the basket, if there are two breads on the table, use two arms to simultaneously grab up two breads and put them in the basket.
+Average Steps
+: 231 (Aloha-AgileX, save_freq=15)
+Objects
+: 075_bread, 076_breadbasket
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+89%
+88%
+62%
+1%
+67%

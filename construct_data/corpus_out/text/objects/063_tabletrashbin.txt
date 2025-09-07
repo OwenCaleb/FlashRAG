@@ -1,0 +1,13 @@
+063_Tabletrashbin - RoboTwin 2.0 Offical Document
+# 063_Tabletrashbin
+base0
+base1
+base2
+base3
+base4
+base5
+base6
+base7
+base8
+base9
+base10

@@ -1,0 +1,20 @@
+Stack Blocks Two - RoboTwin 2.0 Offical Document
+# Stack Blocks Two
+Description
+: There are two blocks on the table, the color of the blocks is red, green. Move the blocks to the center of the table, and stack the geen block on the red block.
+Average Steps
+: 316 (Aloha-AgileX, save_freq=15)
+Objects
+: block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+98%
+99%
+96%
+2%
+68%

@@ -1,0 +1,20 @@
+Handover Mic - RoboTwin 2.0 Offical Document
+# Handover Mic
+Description
+: Use one arm to grasp the microphone on the table and handover it to the other arm.
+Average Steps
+: 223 (Aloha-AgileX, save_freq=15)
+Objects
+: 018_microphone
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+87%
+98%
+84%
+65%
+14%

@@ -1,0 +1,404 @@
+id,url,title,html_path,txt_path,chars
+page-0,https://robotwin-platform.github.io/doc/,RoboTwin 2.0 - RoboTwin 2.0 Offical Document,html/index.html,text/index.txt,3749
+page-1,https://robotwin-platform.github.io/doc/index.html,RoboTwin 2.0 - RoboTwin 2.0 Offical Document,html/index.html,text/index.txt,3749
+page-2,https://robotwin-platform.github.io/doc/usage/index.html,RoboTwin 2.0 Usage Guide - RoboTwin 2.0 Offical Document,html/usage/index.html,text/usage/index.txt,398
+page-3,https://robotwin-platform.github.io/doc/common-issue/index.html,Common Issue - RoboTwin 2.0 Offical Document,html/common-issue/index.html,text/common-issue/index.txt,1872
+page-4,https://robotwin-platform.github.io/doc/tasks/index.html,50 RoboTwin 2.0 Tasks - RoboTwin 2.0 Offical Document,html/tasks/index.html,text/tasks/index.txt,763
+page-5,https://robotwin-platform.github.io/doc/objects/index.html,RoboTwin-OD (RoboTwin Object Dataset) - RoboTwin 2.0 Offical Document,html/objects/index.html,text/objects/index.txt,1185
+page-6,https://robotwin-platform.github.io/doc/community/index.html,WeChat Group - RoboTwin 2.0 Offical Document,html/community/index.html,text/community/index.txt,141
+page-7,https://robotwin-platform.github.io/doc/main/contributions.html,Contributions - RoboTwin 2.0 Offical Document,html/main/contributions.html,text/main/contributions.txt,809
+page-8,https://robotwin-platform.github.io/doc/usage/robotwin-install.html,Install & Download - RoboTwin 2.0 Offical Document,html/usage/robotwin-install.html,text/usage/robotwin-install.txt,3472
+page-9,https://robotwin-platform.github.io/doc/usage/collect-data.html,Collect Data - RoboTwin 2.0 Offical Document,html/usage/collect-data.html,text/usage/collect-data.txt,2697
+page-10,https://robotwin-platform.github.io/doc/usage/domain-randomization.html,Domain Randomization - RoboTwin 2.0 Offical Document,html/usage/domain-randomization.html,text/usage/domain-randomization.txt,379
+page-11,https://robotwin-platform.github.io/doc/usage/configurations.html,Configurations - RoboTwin 2.0 Offical Document,html/usage/configurations.html,text/usage/configurations.txt,6451
+page-12,https://robotwin-platform.github.io/doc/usage/control-robot.html,Control Robot - RoboTwin 2.0 Offical Document,html/usage/control-robot.html,text/usage/control-robot.txt,1320
+page-13,https://robotwin-platform.github.io/doc/usage/deploy-your-policy.html,Deploy Your Policy - RoboTwin 2.0 Offical Document,html/usage/deploy-your-policy.html,text/usage/deploy-your-policy.txt,5533
+page-14,https://robotwin-platform.github.io/doc/usage/ACT.html,ACT - RoboTwin 2.0 Offical Document,html/usage/ACT.html,text/usage/ACT.txt,1731
+page-15,https://robotwin-platform.github.io/doc/usage/DP.html,DP - RoboTwin 2.0 Offical Document,html/usage/DP.html,text/usage/DP.txt,1961
+page-16,https://robotwin-platform.github.io/doc/usage/DP3.html,DP3 - RoboTwin 2.0 Offical Document,html/usage/DP3.html,text/usage/DP3.txt,2108
+page-17,https://robotwin-platform.github.io/doc/usage/RDT.html,RDT - RoboTwin 2.0 Offical Document,html/usage/RDT.html,text/usage/RDT.txt,4632
+page-18,https://robotwin-platform.github.io/doc/usage/Pi0.html,Pi0 - RoboTwin 2.0 Offical Document,html/usage/Pi0.html,text/usage/Pi0.txt,6191
+page-19,https://robotwin-platform.github.io/doc/usage/DexVLA.html,DexVLA - RoboTwin 2.0 Offical Document,html/usage/DexVLA.html,text/usage/DexVLA.txt,4480
+page-20,https://robotwin-platform.github.io/doc/usage/TinyVLA.html,TinyVLA - RoboTwin 2.0 Offical Document,html/usage/TinyVLA.html,text/usage/TinyVLA.txt,3401
+page-21,https://robotwin-platform.github.io/doc/usage/OpenVLA-oft.html,OpenVLA-oft - RoboTwin 2.0 Offical Document,html/usage/OpenVLA-oft.html,text/usage/OpenVLA-oft.txt,2445
+page-22,https://robotwin-platform.github.io/doc/usage/LLaVA-VLA.html,LLaVA-VLA - RoboTwin 2.0 Offical Document,html/usage/LLaVA-VLA.html,text/usage/LLaVA-VLA.txt,3156
+page-23,https://robotwin-platform.github.io/doc/usage/expert-code-gen.html,Expert Code Gen (for Novel Task) - RoboTwin 2.0 Offical Document,html/usage/expert-code-gen.html,text/usage/expert-code-gen.txt,6417
+page-24,https://robotwin-platform.github.io/doc/usage/API.html,API Tutorial - RoboTwin 2.0 Offical Document,html/usage/API.html,text/usage/API.txt,12933
+page-25,https://robotwin-platform.github.io/doc/usage/dual-env-policy-deploy.html,Dual Env (Policy and Deployment) - RoboTwin 2.0 Offical Document,html/usage/dual-env-policy-deploy.html,text/usage/dual-env-policy-deploy.txt,107
+page-26,https://robotwin-platform.github.io/doc/usage/description.html,Description Gen (Object & Task) - RoboTwin 2.0 Offical Document,html/usage/description.html,text/usage/description.txt,1164
+page-27,https://robotwin-platform.github.io/doc/usage/object-annotation.html,Object Annotation - RoboTwin 2.0 Offical Document,html/usage/object-annotation.html,text/usage/object-annotation.txt,5467
+page-28,https://robotwin-platform.github.io/doc/usage/new-embodiment.html,Configuring New Embodiment - RoboTwin 2.0 Offical Document,html/usage/new-embodiment.html,text/usage/new-embodiment.txt,21133
+page-29,https://robotwin-platform.github.io/doc/usage/new-camera.html,Configuring New Camera - RoboTwin 2.0 Offical Document,html/usage/new-camera.html,text/usage/new-camera.txt,372
+page-30,https://robotwin-platform.github.io/doc/tasks/adjust_bottle.html,Adjust Bottle - RoboTwin 2.0 Offical Document,html/tasks/adjust_bottle.html,text/tasks/adjust_bottle.txt,313
+page-31,https://robotwin-platform.github.io/doc/tasks/beat_block_hammer.html,Beat Block Hammer - RoboTwin 2.0 Offical Document,html/tasks/beat_block_hammer.html,text/tasks/beat_block_hammer.txt,363
+page-32,https://robotwin-platform.github.io/doc/tasks/blocks_ranking_rgb.html,Blocks Ranking RGB - RoboTwin 2.0 Offical Document,html/tasks/blocks_ranking_rgb.html,text/tasks/blocks_ranking_rgb.txt,382
+page-33,https://robotwin-platform.github.io/doc/tasks/blocks_ranking_size.html,Blocks Ranking Size - RoboTwin 2.0 Offical Document,html/tasks/blocks_ranking_size.html,text/tasks/blocks_ranking_size.txt,438
+page-34,https://robotwin-platform.github.io/doc/tasks/click_alarmclock.html,Click Alarmclock - RoboTwin 2.0 Offical Document,html/tasks/click_alarmclock.html,text/tasks/click_alarmclock.txt,331
+page-35,https://robotwin-platform.github.io/doc/tasks/click_bell.html,Click Bell - RoboTwin 2.0 Offical Document,html/tasks/click_bell.html,text/tasks/click_bell.txt,290
+page-36,https://robotwin-platform.github.io/doc/tasks/dump_bin_bigbin.html,Dump Bin Bigbin - RoboTwin 2.0 Offical Document,html/tasks/dump_bin_bigbin.html,text/tasks/dump_bin_bigbin.txt,333
+page-37,https://robotwin-platform.github.io/doc/tasks/grab_roller.html,Grab Roller - RoboTwin 2.0 Offical Document,html/tasks/grab_roller.html,text/tasks/grab_roller.txt,294
+page-38,https://robotwin-platform.github.io/doc/tasks/handover_block.html,Handover Block - RoboTwin 2.0 Offical Document,html/tasks/handover_block.html,text/tasks/handover_block.txt,361
+page-39,https://robotwin-platform.github.io/doc/tasks/handover_mic.html,Handover Mic - RoboTwin 2.0 Offical Document,html/tasks/handover_mic.html,text/tasks/handover_mic.txt,338
+page-40,https://robotwin-platform.github.io/doc/tasks/hanging_mug.html,Hanging Mug - RoboTwin 2.0 Offical Document,html/tasks/hanging_mug.html,text/tasks/hanging_mug.txt,423
+page-41,https://robotwin-platform.github.io/doc/tasks/lift_pot.html,Lift Pot - RoboTwin 2.0 Offical Document,html/tasks/lift_pot.html,text/tasks/lift_pot.txt,273
+page-42,https://robotwin-platform.github.io/doc/tasks/move_can_pot.html,Move Can Pot - RoboTwin 2.0 Offical Document,html/tasks/move_can_pot.html,text/tasks/move_can_pot.txt,371
+page-43,https://robotwin-platform.github.io/doc/tasks/move_playingcard_away.html,Move Playingcard Away - RoboTwin 2.0 Offical Document,html/tasks/move_playingcard_away.html,text/tasks/move_playingcard_away.txt,474
+page-44,https://robotwin-platform.github.io/doc/tasks/move_stapler_pad.html,Move Stapler Pad - RoboTwin 2.0 Offical Document,html/tasks/move_stapler_pad.html,text/tasks/move_stapler_pad.txt,318
+page-45,https://robotwin-platform.github.io/doc/tasks/open_laptop.html,Open Laptop - RoboTwin 2.0 Offical Document,html/tasks/open_laptop.html,text/tasks/open_laptop.txt,281
+page-46,https://robotwin-platform.github.io/doc/tasks/open_microwave.html,Open Microwave - RoboTwin 2.0 Offical Document,html/tasks/open_microwave.html,text/tasks/open_microwave.txt,292
+page-47,https://robotwin-platform.github.io/doc/tasks/pick_diverse_bottles.html,Pick Diverse Bottles - RoboTwin 2.0 Offical Document,html/tasks/pick_diverse_bottles.html,text/tasks/pick_diverse_bottles.txt,344
+page-48,https://robotwin-platform.github.io/doc/tasks/pick_dual_bottles.html,Pick Dual Bottles - RoboTwin 2.0 Offical Document,html/tasks/pick_dual_bottles.html,text/tasks/pick_dual_bottles.txt,338
+page-49,https://robotwin-platform.github.io/doc/tasks/place_a2b_left.html,Place A2B Left - RoboTwin 2.0 Offical Document,html/tasks/place_a2b_left.html,text/tasks/place_a2b_left.txt,464
+page-50,https://robotwin-platform.github.io/doc/tasks/place_a2b_right.html,Place A2B Right - RoboTwin 2.0 Offical Document,html/tasks/place_a2b_right.html,text/tasks/place_a2b_right.txt,467
+page-51,https://robotwin-platform.github.io/doc/tasks/place_bread_basket.html,Place Bread Basket - RoboTwin 2.0 Offical Document,html/tasks/place_bread_basket.html,text/tasks/place_bread_basket.txt,486
+page-52,https://robotwin-platform.github.io/doc/tasks/place_bread_skillet.html,Place Bread Skillet - RoboTwin 2.0 Offical Document,html/tasks/place_bread_skillet.html,text/tasks/place_bread_skillet.txt,371
+page-53,https://robotwin-platform.github.io/doc/tasks/place_burger_fries.html,Place Burger Fries - RoboTwin 2.0 Offical Document,html/tasks/place_burger_fries.html,text/tasks/place_burger_fries.txt,369
+page-54,https://robotwin-platform.github.io/doc/tasks/place_can_basket.html,Place Can Basket - RoboTwin 2.0 Offical Document,html/tasks/place_can_basket.html,text/tasks/place_can_basket.txt,361
+page-55,https://robotwin-platform.github.io/doc/tasks/place_cans_plasticbox.html,Place Cans Plasticbox - RoboTwin 2.0 Offical Document,html/tasks/place_cans_plasticbox.html,text/tasks/place_cans_plasticbox.txt,335
+page-56,https://robotwin-platform.github.io/doc/tasks/place_container_plate.html,Place Container Plate - RoboTwin 2.0 Offical Document,html/tasks/place_container_plate.html,text/tasks/place_container_plate.txt,323
+page-57,https://robotwin-platform.github.io/doc/tasks/place_dual_shoes.html,Place Dual Shoes - RoboTwin 2.0 Offical Document,html/tasks/place_dual_shoes.html,text/tasks/place_dual_shoes.txt,391
+page-58,https://robotwin-platform.github.io/doc/tasks/place_empty_cup.html,Place Empty Cup - RoboTwin 2.0 Offical Document,html/tasks/place_empty_cup.html,text/tasks/place_empty_cup.txt,319
+page-59,https://robotwin-platform.github.io/doc/tasks/place_fan.html,Place Fan - RoboTwin 2.0 Offical Document,html/tasks/place_fan.html,text/tasks/place_fan.txt,335
+page-60,https://robotwin-platform.github.io/doc/tasks/place_mouse_pad.html,Place Mouse Pad - RoboTwin 2.0 Offical Document,html/tasks/place_mouse_pad.html,text/tasks/place_mouse_pad.txt,310
+page-61,https://robotwin-platform.github.io/doc/tasks/place_object_basket.html,Place Object Basket - RoboTwin 2.0 Offical Document,html/tasks/place_object_basket.html,text/tasks/place_object_basket.txt,443
+page-62,https://robotwin-platform.github.io/doc/tasks/place_object_scale.html,Place Object Scale - RoboTwin 2.0 Offical Document,html/tasks/place_object_scale.html,text/tasks/place_object_scale.txt,361
+page-63,https://robotwin-platform.github.io/doc/tasks/place_object_stand.html,Place Object Stand - RoboTwin 2.0 Offical Document,html/tasks/place_object_stand.html,text/tasks/place_object_stand.txt,403
+page-64,https://robotwin-platform.github.io/doc/tasks/place_phone_stand.html,Place Phone Stand - RoboTwin 2.0 Offical Document,html/tasks/place_phone_stand.html,text/tasks/place_phone_stand.txt,325
+page-65,https://robotwin-platform.github.io/doc/tasks/place_shoe.html,Place Shoe - RoboTwin 2.0 Offical Document,html/tasks/place_shoe.html,text/tasks/place_shoe.txt,320
+page-66,https://robotwin-platform.github.io/doc/tasks/press_stapler.html,Press Stapler - RoboTwin 2.0 Offical Document,html/tasks/press_stapler.html,text/tasks/press_stapler.txt,289
+page-67,https://robotwin-platform.github.io/doc/tasks/put_bottles_dustbin.html,Put Bottles Dustbin - RoboTwin 2.0 Offical Document,html/tasks/put_bottles_dustbin.html,text/tasks/put_bottles_dustbin.txt,360
+page-68,https://robotwin-platform.github.io/doc/tasks/put_object_cabinet.html,Put Object Cabinet - RoboTwin 2.0 Offical Document,html/tasks/put_object_cabinet.html,text/tasks/put_object_cabinet.txt,501
+page-69,https://robotwin-platform.github.io/doc/tasks/rotate_qrcode.html,Rotate QRcode - RoboTwin 2.0 Offical Document,html/tasks/rotate_qrcode.html,text/tasks/rotate_qrcode.txt,369
+page-70,https://robotwin-platform.github.io/doc/tasks/scan_object.html,Scan Object - RoboTwin 2.0 Offical Document,html/tasks/scan_object.html,text/tasks/scan_object.txt,375
+page-71,https://robotwin-platform.github.io/doc/tasks/shake_bottle_horizontally.html,Shake Bottle Horizontally - RoboTwin 2.0 Offical Document,html/tasks/shake_bottle_horizontally.html,text/tasks/shake_bottle_horizontally.txt,324
+page-72,https://robotwin-platform.github.io/doc/tasks/shake_bottle.html,Shake Bottle - RoboTwin 2.0 Offical Document,html/tasks/shake_bottle.html,text/tasks/shake_bottle.txt,285
+page-73,https://robotwin-platform.github.io/doc/tasks/stack_blocks_three.html,Stack Blocks Three - RoboTwin 2.0 Offical Document,html/tasks/stack_blocks_three.html,text/tasks/stack_blocks_three.txt,469
+page-74,https://robotwin-platform.github.io/doc/tasks/stack_blocks_two.html,Stack Blocks Two - RoboTwin 2.0 Offical Document,html/tasks/stack_blocks_two.html,text/tasks/stack_blocks_two.txt,414
+page-75,https://robotwin-platform.github.io/doc/tasks/stack_bowls_three.html,Stack Bowls Three - RoboTwin 2.0 Offical Document,html/tasks/stack_bowls_three.html,text/tasks/stack_bowls_three.txt,302
+page-76,https://robotwin-platform.github.io/doc/tasks/stack_bowls_two.html,Stack Bowls Two - RoboTwin 2.0 Offical Document,html/tasks/stack_bowls_two.html,text/tasks/stack_bowls_two.txt,296
+page-77,https://robotwin-platform.github.io/doc/tasks/stamp_seal.html,Stamp Seal - RoboTwin 2.0 Offical Document,html/tasks/stamp_seal.html,text/tasks/stamp_seal.txt,306
+page-78,https://robotwin-platform.github.io/doc/tasks/turn_switch.html,Turn Switch - RoboTwin 2.0 Offical Document,html/tasks/turn_switch.html,text/tasks/turn_switch.txt,288
+page-79,https://robotwin-platform.github.io/doc/tasks/move_pillbottle_pad.html,Move Pillbottle Pad - RoboTwin 2.0 Offical Document,html/tasks/move_pillbottle_pad.html,text/tasks/move_pillbottle_pad.txt,338
+page-80,https://robotwin-platform.github.io/doc/objects/001_bottle.html,001_Bottle - RoboTwin 2.0 Offical Document,html/objects/001_bottle.html,text/objects/001_bottle.txt,206
+page-81,https://robotwin-platform.github.io/doc/objects/002_bowl.html,002_Bowl - RoboTwin 2.0 Offical Document,html/objects/002_bowl.html,text/objects/002_bowl.txt,93
+page-82,https://robotwin-platform.github.io/doc/objects/003_plate.html,003_Plate - RoboTwin 2.0 Offical Document,html/objects/003_plate.html,text/objects/003_plate.txt,59
+page-83,https://robotwin-platform.github.io/doc/objects/004_fluted-block.html,004_Fluted-Block - RoboTwin 2.0 Offical Document,html/objects/004_fluted-block.html,text/objects/004_fluted-block.txt,79
+page-84,https://robotwin-platform.github.io/doc/objects/005_french-fries.html,005_French-Fries - RoboTwin 2.0 Offical Document,html/objects/005_french-fries.html,text/objects/005_french-fries.txt,91
+page-85,https://robotwin-platform.github.io/doc/objects/006_hamburg.html,006_Hamburg - RoboTwin 2.0 Offical Document,html/objects/006_hamburg.html,text/objects/006_hamburg.txt,93
+page-86,https://robotwin-platform.github.io/doc/objects/007_shoe-box.html,007_Shoe-Box - RoboTwin 2.0 Offical Document,html/objects/007_shoe-box.html,text/objects/007_shoe-box.txt,65
+page-87,https://robotwin-platform.github.io/doc/objects/008_tray.html,008_Tray - RoboTwin 2.0 Offical Document,html/objects/008_tray.html,text/objects/008_tray.txt,75
+page-88,https://robotwin-platform.github.io/doc/objects/009_kettle.html,009_Kettle - RoboTwin 2.0 Offical Document,html/objects/009_kettle.html,text/objects/009_kettle.txt,73
+page-89,https://robotwin-platform.github.io/doc/objects/010_pen.html,010_Pen - RoboTwin 2.0 Offical Document,html/objects/010_pen.html,text/objects/010_pen.txt,84
+page-90,https://robotwin-platform.github.io/doc/objects/011_dustbin.html,011_Dustbin - RoboTwin 2.0 Offical Document,html/objects/011_dustbin.html,text/objects/011_dustbin.txt,63
+page-91,https://robotwin-platform.github.io/doc/objects/012_plant-pot.html,012_Plant-Pot - RoboTwin 2.0 Offical Document,html/objects/012_plant-pot.html,text/objects/012_plant-pot.txt,91
+page-92,https://robotwin-platform.github.io/doc/objects/013_dumbbell-rack.html,013_Dumbbell-Rack - RoboTwin 2.0 Offical Document,html/objects/013_dumbbell-rack.html,text/objects/013_dumbbell-rack.txt,93
+page-93,https://robotwin-platform.github.io/doc/objects/014_bookcase.html,014_Bookcase - RoboTwin 2.0 Offical Document,html/objects/014_bookcase.html,text/objects/014_bookcase.txt,83
+page-94,https://robotwin-platform.github.io/doc/objects/015_laptop.html,015_Laptop - RoboTwin 2.0 Offical Document,html/objects/015_laptop.html,text/objects/015_laptop.txt,122
+page-95,https://robotwin-platform.github.io/doc/objects/016_oven.html,016_Oven - RoboTwin 2.0 Offical Document,html/objects/016_oven.html,text/objects/016_oven.txt,87
+page-96,https://robotwin-platform.github.io/doc/objects/017_calculator.html,017_Calculator - RoboTwin 2.0 Offical Document,html/objects/017_calculator.html,text/objects/017_calculator.txt,99
+page-97,https://robotwin-platform.github.io/doc/objects/018_microphone.html,018_Microphone - RoboTwin 2.0 Offical Document,html/objects/018_microphone.html,text/objects/018_microphone.txt,87
+page-98,https://robotwin-platform.github.io/doc/objects/019_coaster.html,019_Coaster - RoboTwin 2.0 Offical Document,html/objects/019_coaster.html,text/objects/019_coaster.txt,63
+page-99,https://robotwin-platform.github.io/doc/objects/020_hammer.html,020_Hammer - RoboTwin 2.0 Offical Document,html/objects/020_hammer.html,text/objects/020_hammer.txt,61
+page-100,https://robotwin-platform.github.io/doc/objects/021_cup.html,021_Cup - RoboTwin 2.0 Offical Document,html/objects/021_cup.html,text/objects/021_cup.txt,130
+page-101,https://robotwin-platform.github.io/doc/objects/022_cup-with-liquid.html,022_Cup-With-Liquid - RoboTwin 2.0 Offical Document,html/objects/022_cup-with-liquid.html,text/objects/022_cup-with-liquid.txt,79
+page-102,https://robotwin-platform.github.io/doc/objects/023_tissue-box.html,023_Tissue-Box - RoboTwin 2.0 Offical Document,html/objects/023_tissue-box.html,text/objects/023_tissue-box.txt,105
+page-103,https://robotwin-platform.github.io/doc/objects/024_scanner.html,024_Scanner - RoboTwin 2.0 Offical Document,html/objects/024_scanner.html,text/objects/024_scanner.txt,87
+page-104,https://robotwin-platform.github.io/doc/objects/025_chips-tub.html,025_Chips-Tub - RoboTwin 2.0 Offical Document,html/objects/025_chips-tub.html,text/objects/025_chips-tub.txt,85
+page-105,https://robotwin-platform.github.io/doc/objects/026_pet-collar.html,026_Pet-Collar - RoboTwin 2.0 Offical Document,html/objects/026_pet-collar.html,text/objects/026_pet-collar.txt,87
+page-106,https://robotwin-platform.github.io/doc/objects/027_table-tennis.html,027_Table-Tennis - RoboTwin 2.0 Offical Document,html/objects/027_table-tennis.html,text/objects/027_table-tennis.txt,79
+page-107,https://robotwin-platform.github.io/doc/objects/028_roll-paper.html,028_Roll-Paper - RoboTwin 2.0 Offical Document,html/objects/028_roll-paper.html,text/objects/028_roll-paper.txt,87
+page-108,https://robotwin-platform.github.io/doc/objects/029_olive-oil.html,029_Olive-Oil - RoboTwin 2.0 Offical Document,html/objects/029_olive-oil.html,text/objects/029_olive-oil.txt,91
+page-109,https://robotwin-platform.github.io/doc/objects/030_drill.html,030_Drill - RoboTwin 2.0 Offical Document,html/objects/030_drill.html,text/objects/030_drill.txt,95
+page-110,https://robotwin-platform.github.io/doc/objects/031_jam-jar.html,031_Jam-Jar - RoboTwin 2.0 Offical Document,html/objects/031_jam-jar.html,text/objects/031_jam-jar.txt,87
+page-111,https://robotwin-platform.github.io/doc/objects/032_screwdriver.html,032_Screwdriver - RoboTwin 2.0 Offical Document,html/objects/032_screwdriver.html,text/objects/032_screwdriver.txt,71
+page-112,https://robotwin-platform.github.io/doc/objects/033_fork.html,033_Fork - RoboTwin 2.0 Offical Document,html/objects/033_fork.html,text/objects/033_fork.txt,57
+page-113,https://robotwin-platform.github.io/doc/objects/034_knife.html,034_Knife - RoboTwin 2.0 Offical Document,html/objects/034_knife.html,text/objects/034_knife.txt,59
+page-114,https://robotwin-platform.github.io/doc/objects/035_apple.html,035_Apple - RoboTwin 2.0 Offical Document,html/objects/035_apple.html,text/objects/035_apple.txt,65
+page-115,https://robotwin-platform.github.io/doc/objects/036_cabinet.html,036_Cabinet - RoboTwin 2.0 Offical Document,html/objects/036_cabinet.html,text/objects/036_cabinet.txt,63
+page-116,https://robotwin-platform.github.io/doc/objects/037_box.html,037_Box - RoboTwin 2.0 Offical Document,html/objects/037_box.html,text/objects/037_box.txt,55
+page-117,https://robotwin-platform.github.io/doc/objects/038_milk-box.html,038_Milk-Box - RoboTwin 2.0 Offical Document,html/objects/038_milk-box.html,text/objects/038_milk-box.txt,83
+page-118,https://robotwin-platform.github.io/doc/objects/039_mug.html,039_Mug - RoboTwin 2.0 Offical Document,html/objects/039_mug.html,text/objects/039_mug.txt,130
+page-119,https://robotwin-platform.github.io/doc/objects/040_rack.html,040_Rack - RoboTwin 2.0 Offical Document,html/objects/040_rack.html,text/objects/040_rack.txt,57
+page-120,https://robotwin-platform.github.io/doc/objects/041_shoe.html,041_Shoe - RoboTwin 2.0 Offical Document,html/objects/041_shoe.html,text/objects/041_shoe.txt,111
+page-121,https://robotwin-platform.github.io/doc/objects/042_wooden_box.html,042_Wooden_Box - RoboTwin 2.0 Offical Document,html/objects/042_wooden_box.html,text/objects/042_wooden_box.txt,69
+page-122,https://robotwin-platform.github.io/doc/objects/043_book.html,043_Book - RoboTwin 2.0 Offical Document,html/objects/043_book.html,text/objects/043_book.txt,63
+page-123,https://robotwin-platform.github.io/doc/objects/044_microwave.html,044_Microwave - RoboTwin 2.0 Offical Document,html/objects/044_microwave.html,text/objects/044_microwave.txt,73
+page-124,https://robotwin-platform.github.io/doc/objects/045_sand-clock.html,045_Sand-Clock - RoboTwin 2.0 Offical Document,html/objects/045_sand-clock.html,text/objects/045_sand-clock.txt,81
+page-125,https://robotwin-platform.github.io/doc/objects/046_alarm-clock.html,046_Alarm-Clock - RoboTwin 2.0 Offical Document,html/objects/046_alarm-clock.html,text/objects/046_alarm-clock.txt,101
+page-126,https://robotwin-platform.github.io/doc/objects/047_mouse.html,047_Mouse - RoboTwin 2.0 Offical Document,html/objects/047_mouse.html,text/objects/047_mouse.txt,71
+page-127,https://robotwin-platform.github.io/doc/objects/048_stapler.html,048_Stapler - RoboTwin 2.0 Offical Document,html/objects/048_stapler.html,text/objects/048_stapler.txt,99
+page-128,https://robotwin-platform.github.io/doc/objects/049_shampoo.html,049_Shampoo - RoboTwin 2.0 Offical Document,html/objects/049_shampoo.html,text/objects/049_shampoo.txt,99
+page-129,https://robotwin-platform.github.io/doc/objects/050_bell.html,050_Bell - RoboTwin 2.0 Offical Document,html/objects/050_bell.html,text/objects/050_bell.txt,63
+page-130,https://robotwin-platform.github.io/doc/objects/051_candlestick.html,051_Candlestick - RoboTwin 2.0 Offical Document,html/objects/051_candlestick.html,text/objects/051_candlestick.txt,95
+page-131,https://robotwin-platform.github.io/doc/objects/052_dumbbell.html,052_Dumbbell - RoboTwin 2.0 Offical Document,html/objects/052_dumbbell.html,text/objects/052_dumbbell.txt,101
+page-132,https://robotwin-platform.github.io/doc/objects/053_teanet.html,053_Teanet - RoboTwin 2.0 Offical Document,html/objects/053_teanet.html,text/objects/053_teanet.txt,85
+page-133,https://robotwin-platform.github.io/doc/objects/054_baguette.html,054_Baguette - RoboTwin 2.0 Offical Document,html/objects/054_baguette.html,text/objects/054_baguette.txt,71
+page-134,https://robotwin-platform.github.io/doc/objects/055_small-speaker.html,055_Small-Speaker - RoboTwin 2.0 Offical Document,html/objects/055_small-speaker.html,text/objects/055_small-speaker.txt,87
+page-135,https://robotwin-platform.github.io/doc/objects/056_switch.html,056_Switch - RoboTwin 2.0 Offical Document,html/objects/056_switch.html,text/objects/056_switch.txt,103
+page-136,https://robotwin-platform.github.io/doc/objects/057_toycar.html,057_Toycar - RoboTwin 2.0 Offical Document,html/objects/057_toycar.html,text/objects/057_toycar.txt,91
+page-137,https://robotwin-platform.github.io/doc/objects/058_markpen.html,058_Markpen - RoboTwin 2.0 Offical Document,html/objects/058_markpen.html,text/objects/058_markpen.txt,93
+page-138,https://robotwin-platform.github.io/doc/objects/059_pencup.html,059_Pencup - RoboTwin 2.0 Offical Document,html/objects/059_pencup.html,text/objects/059_pencup.txt,97
+page-139,https://robotwin-platform.github.io/doc/objects/060_kitchenpot.html,060_Kitchenpot - RoboTwin 2.0 Offical Document,html/objects/060_kitchenpot.html,text/objects/060_kitchenpot.txt,111
+page-140,https://robotwin-platform.github.io/doc/objects/061_battery.html,061_Battery - RoboTwin 2.0 Offical Document,html/objects/061_battery.html,text/objects/061_battery.txt,93
+page-141,https://robotwin-platform.github.io/doc/objects/062_plasticbox.html,062_Plasticbox - RoboTwin 2.0 Offical Document,html/objects/062_plasticbox.html,text/objects/062_plasticbox.txt,130
+page-142,https://robotwin-platform.github.io/doc/objects/063_tabletrashbin.html,063_Tabletrashbin - RoboTwin 2.0 Offical Document,html/objects/063_tabletrashbin.html,text/objects/063_tabletrashbin.txt,136
+page-143,https://robotwin-platform.github.io/doc/objects/064_msg.html,064_Msg - RoboTwin 2.0 Offical Document,html/objects/064_msg.html,text/objects/064_msg.txt,85
+page-144,https://robotwin-platform.github.io/doc/objects/065_soy-sauce.html,065_Soy-Sauce - RoboTwin 2.0 Offical Document,html/objects/065_soy-sauce.html,text/objects/065_soy-sauce.txt,91
+page-145,https://robotwin-platform.github.io/doc/objects/066_vinegar.html,066_Vinegar - RoboTwin 2.0 Offical Document,html/objects/066_vinegar.html,text/objects/066_vinegar.txt,75
+page-146,https://robotwin-platform.github.io/doc/objects/067_steamer.html,067_Steamer - RoboTwin 2.0 Offical Document,html/objects/067_steamer.html,text/objects/067_steamer.txt,75
+page-147,https://robotwin-platform.github.io/doc/objects/068_boxdrink.html,068_Boxdrink - RoboTwin 2.0 Offical Document,html/objects/068_boxdrink.html,text/objects/068_boxdrink.txt,83
+page-148,https://robotwin-platform.github.io/doc/objects/069_vagetable.html,069_Vagetable - RoboTwin 2.0 Offical Document,html/objects/069_vagetable.html,text/objects/069_vagetable.txt,103
+page-149,https://robotwin-platform.github.io/doc/objects/070_paymentsign.html,070_Paymentsign - RoboTwin 2.0 Offical Document,html/objects/070_paymentsign.html,text/objects/070_paymentsign.txt,89
+page-150,https://robotwin-platform.github.io/doc/objects/071_can.html,071_Can - RoboTwin 2.0 Offical Document,html/objects/071_can.html,text/objects/071_can.txt,85
+page-151,https://robotwin-platform.github.io/doc/objects/072_electronicscale.html,072_Electronicscale - RoboTwin 2.0 Offical Document,html/objects/072_electronicscale.html,text/objects/072_electronicscale.txt,103
+page-152,https://robotwin-platform.github.io/doc/objects/073_rubikscube.html,073_Rubikscube - RoboTwin 2.0 Offical Document,html/objects/073_rubikscube.html,text/objects/073_rubikscube.txt,81
+page-153,https://robotwin-platform.github.io/doc/objects/074_displaystand.html,074_Displaystand - RoboTwin 2.0 Offical Document,html/objects/074_displaystand.html,text/objects/074_displaystand.txt,97
+page-154,https://robotwin-platform.github.io/doc/objects/075_bread.html,075_Bread - RoboTwin 2.0 Offical Document,html/objects/075_bread.html,text/objects/075_bread.txt,95
+page-155,https://robotwin-platform.github.io/doc/objects/076_breadbasket.html,076_Breadbasket - RoboTwin 2.0 Offical Document,html/objects/076_breadbasket.html,text/objects/076_breadbasket.txt,95
+page-156,https://robotwin-platform.github.io/doc/objects/077_phone.html,077_Phone - RoboTwin 2.0 Offical Document,html/objects/077_phone.html,text/objects/077_phone.txt,83
+page-157,https://robotwin-platform.github.io/doc/objects/078_phonestand.html,078_Phonestand - RoboTwin 2.0 Offical Document,html/objects/078_phonestand.html,text/objects/078_phonestand.txt,105
+page-158,https://robotwin-platform.github.io/doc/objects/079_remotecontrol.html,079_Remotecontrol - RoboTwin 2.0 Offical Document,html/objects/079_remotecontrol.html,text/objects/079_remotecontrol.txt,111
+page-159,https://robotwin-platform.github.io/doc/objects/080_pillbottle.html,080_Pillbottle - RoboTwin 2.0 Offical Document,html/objects/080_pillbottle.html,text/objects/080_pillbottle.txt,93
+page-160,https://robotwin-platform.github.io/doc/objects/081_playingcards.html,081_Playingcards - RoboTwin 2.0 Offical Document,html/objects/081_playingcards.html,text/objects/081_playingcards.txt,85
+page-161,https://robotwin-platform.github.io/doc/objects/082_smallshovel.html,082_Smallshovel - RoboTwin 2.0 Offical Document,html/objects/082_smallshovel.html,text/objects/082_smallshovel.txt,89
+page-162,https://robotwin-platform.github.io/doc/objects/083_brush.html,083_Brush - RoboTwin 2.0 Offical Document,html/objects/083_brush.html,text/objects/083_brush.txt,77
+page-163,https://robotwin-platform.github.io/doc/objects/084_woodenmallet.html,084_Woodenmallet - RoboTwin 2.0 Offical Document,html/objects/084_woodenmallet.html,text/objects/084_woodenmallet.txt,97
+page-164,https://robotwin-platform.github.io/doc/objects/085_gong.html,085_Gong - RoboTwin 2.0 Offical Document,html/objects/085_gong.html,text/objects/085_gong.txt,87
+page-165,https://robotwin-platform.github.io/doc/objects/086_woodenblock.html,086_Woodenblock - RoboTwin 2.0 Offical Document,html/objects/086_woodenblock.html,text/objects/086_woodenblock.txt,95
+page-166,https://robotwin-platform.github.io/doc/objects/087_waterer.html,087_Waterer - RoboTwin 2.0 Offical Document,html/objects/087_waterer.html,text/objects/087_waterer.txt,105
+page-167,https://robotwin-platform.github.io/doc/objects/088_wineglass.html,088_Wineglass - RoboTwin 2.0 Offical Document,html/objects/088_wineglass.html,text/objects/088_wineglass.txt,91
+page-168,https://robotwin-platform.github.io/doc/objects/089_globe.html,089_Globe - RoboTwin 2.0 Offical Document,html/objects/089_globe.html,text/objects/089_globe.txt,65
+page-169,https://robotwin-platform.github.io/doc/objects/090_trophy.html,090_Trophy - RoboTwin 2.0 Offical Document,html/objects/090_trophy.html,text/objects/090_trophy.txt,85
+page-170,https://robotwin-platform.github.io/doc/objects/091_kettle.html,091_Kettle - RoboTwin 2.0 Offical Document,html/objects/091_kettle.html,text/objects/091_kettle.txt,91
+page-171,https://robotwin-platform.github.io/doc/objects/092_notebook.html,092_Notebook - RoboTwin 2.0 Offical Document,html/objects/092_notebook.html,text/objects/092_notebook.txt,77
+page-172,https://robotwin-platform.github.io/doc/objects/093_brush-pen.html,093_Brush-Pen - RoboTwin 2.0 Offical Document,html/objects/093_brush-pen.html,text/objects/093_brush-pen.txt,97
+page-173,https://robotwin-platform.github.io/doc/objects/094_rest.html,094_Rest - RoboTwin 2.0 Offical Document,html/objects/094_rest.html,text/objects/094_rest.txt,75
+page-174,https://robotwin-platform.github.io/doc/objects/095_glue.html,095_Glue - RoboTwin 2.0 Offical Document,html/objects/095_glue.html,text/objects/095_glue.txt,87
+page-175,https://robotwin-platform.github.io/doc/objects/096_cleaner.html,096_Cleaner - RoboTwin 2.0 Offical Document,html/objects/096_cleaner.html,text/objects/096_cleaner.txt,81
+page-176,https://robotwin-platform.github.io/doc/objects/097_screen.html,097_Screen - RoboTwin 2.0 Offical Document,html/objects/097_screen.html,text/objects/097_screen.txt,79
+page-177,https://robotwin-platform.github.io/doc/objects/098_speaker.html,098_Speaker - RoboTwin 2.0 Offical Document,html/objects/098_speaker.html,text/objects/098_speaker.txt,93
+page-178,https://robotwin-platform.github.io/doc/objects/099_fan.html,099_Fan - RoboTwin 2.0 Offical Document,html/objects/099_fan.html,text/objects/099_fan.txt,91
+page-179,https://robotwin-platform.github.io/doc/objects/100_seal.html,100_Seal - RoboTwin 2.0 Offical Document,html/objects/100_seal.html,text/objects/100_seal.txt,87
+page-180,https://robotwin-platform.github.io/doc/objects/101_milk-tea.html,101_Milk-Tea - RoboTwin 2.0 Offical Document,html/objects/101_milk-tea.html,text/objects/101_milk-tea.txt,95
+page-181,https://robotwin-platform.github.io/doc/objects/102_roller.html,102_Roller - RoboTwin 2.0 Offical Document,html/objects/102_roller.html,text/objects/102_roller.txt,73
+page-182,https://robotwin-platform.github.io/doc/objects/103_fruit.html,103_Fruit - RoboTwin 2.0 Offical Document,html/objects/103_fruit.html,text/objects/103_fruit.txt,95
+page-183,https://robotwin-platform.github.io/doc/objects/104_board.html,104_Board - RoboTwin 2.0 Offical Document,html/objects/104_board.html,text/objects/104_board.txt,83
+page-184,https://robotwin-platform.github.io/doc/objects/105_sauce-can.html,105_Sauce-Can - RoboTwin 2.0 Offical Document,html/objects/105_sauce-can.html,text/objects/105_sauce-can.txt,91
+page-185,https://robotwin-platform.github.io/doc/objects/106_skillet.html,106_Skillet - RoboTwin 2.0 Offical Document,html/objects/106_skillet.html,text/objects/106_skillet.txt,81
+page-186,https://robotwin-platform.github.io/doc/objects/107_soap.html,107_Soap - RoboTwin 2.0 Offical Document,html/objects/107_soap.html,text/objects/107_soap.txt,75
+page-187,https://robotwin-platform.github.io/doc/objects/108_block.html,108_Block - RoboTwin 2.0 Offical Document,html/objects/108_block.html,text/objects/108_block.txt,95
+page-188,https://robotwin-platform.github.io/doc/objects/109_hydrating-oil.html,109_Hydrating-Oil - RoboTwin 2.0 Offical Document,html/objects/109_hydrating-oil.html,text/objects/109_hydrating-oil.txt,93
+page-189,https://robotwin-platform.github.io/doc/objects/110_basket.html,110_Basket - RoboTwin 2.0 Offical Document,html/objects/110_basket.html,text/objects/110_basket.txt,79
+page-190,https://robotwin-platform.github.io/doc/objects/111_callbell.html,111_Callbell - RoboTwin 2.0 Offical Document,html/objects/111_callbell.html,text/objects/111_callbell.txt,95
+page-191,https://robotwin-platform.github.io/doc/objects/112_tea-box.html,112_Tea-Box - RoboTwin 2.0 Offical Document,html/objects/112_tea-box.html,text/objects/112_tea-box.txt,93
+page-192,https://robotwin-platform.github.io/doc/objects/113_coffee-box.html,113_Coffee-Box - RoboTwin 2.0 Offical Document,html/objects/113_coffee-box.html,text/objects/113_coffee-box.txt,105
+page-193,https://robotwin-platform.github.io/doc/objects/114_bottle.html,114_Bottle - RoboTwin 2.0 Offical Document,html/objects/114_bottle.html,text/objects/114_bottle.txt,79
+page-194,https://robotwin-platform.github.io/doc/objects/115_perfume.html,115_Perfume - RoboTwin 2.0 Offical Document,html/objects/115_perfume.html,text/objects/115_perfume.txt,81
+page-195,https://robotwin-platform.github.io/doc/objects/116_keyboard.html,116_Keyboard - RoboTwin 2.0 Offical Document,html/objects/116_keyboard.html,text/objects/116_keyboard.txt,83
+page-196,https://robotwin-platform.github.io/doc/objects/117_whiteboard-eraser.html,117_Whiteboard-Eraser - RoboTwin 2.0 Offical Document,html/objects/117_whiteboard-eraser.html,text/objects/117_whiteboard-eraser.txt,83
+page-197,https://robotwin-platform.github.io/doc/objects/118_tooth-paste.html,118_Tooth-Paste - RoboTwin 2.0 Offical Document,html/objects/118_tooth-paste.html,text/objects/118_tooth-paste.txt,71
+page-198,https://robotwin-platform.github.io/doc/objects/119_mini-chalkboard.html,119_Mini-Chalkboard - RoboTwin 2.0 Offical Document,html/objects/119_mini-chalkboard.html,text/objects/119_mini-chalkboard.txt,79
+page-199,https://robotwin-platform.github.io/doc/objects/120_plant.html,120_Plant - RoboTwin 2.0 Offical Document,html/objects/120_plant.html,text/objects/120_plant.txt,59
+page-200,http://robotwin-platform.github.io/doc/tasks/,50 RoboTwin 2.0 Tasks - RoboTwin 2.0 Offical Document,html/tasks/index.html,text/tasks/index.txt,763
+page-201,https://robotwin-platform.github.io/doc/usage/object_marking/model_data_info.html,Model data info - RoboTwin 2.0 Offical Document,html/usage/object_marking/model_data_info.html,text/usage/object_marking/model_data_info.txt,746
+page-202,http://robotwin-platform.github.io/doc/,RoboTwin 2.0 - RoboTwin 2.0 Offical Document,html/index.html,text/index.txt,3749
+page-203,http://robotwin-platform.github.io/doc/index.html,RoboTwin 2.0 - RoboTwin 2.0 Offical Document,html/index.html,text/index.txt,3749
+page-204,http://robotwin-platform.github.io/doc/usage/index.html,RoboTwin 2.0 Usage Guide - RoboTwin 2.0 Offical Document,html/usage/index.html,text/usage/index.txt,398
+page-205,http://robotwin-platform.github.io/doc/common-issue/index.html,Common Issue - RoboTwin 2.0 Offical Document,html/common-issue/index.html,text/common-issue/index.txt,1872
+page-206,http://robotwin-platform.github.io/doc/tasks/index.html,50 RoboTwin 2.0 Tasks - RoboTwin 2.0 Offical Document,html/tasks/index.html,text/tasks/index.txt,763
+page-207,http://robotwin-platform.github.io/doc/objects/index.html,RoboTwin-OD (RoboTwin Object Dataset) - RoboTwin 2.0 Offical Document,html/objects/index.html,text/objects/index.txt,1185
+page-208,http://robotwin-platform.github.io/doc/community/index.html,WeChat Group - RoboTwin 2.0 Offical Document,html/community/index.html,text/community/index.txt,141
+page-209,http://robotwin-platform.github.io/doc/main/contributions.html,Contributions - RoboTwin 2.0 Offical Document,html/main/contributions.html,text/main/contributions.txt,809
+page-210,http://robotwin-platform.github.io/doc/usage/robotwin-install.html,Install & Download - RoboTwin 2.0 Offical Document,html/usage/robotwin-install.html,text/usage/robotwin-install.txt,3472
+page-211,http://robotwin-platform.github.io/doc/usage/collect-data.html,Collect Data - RoboTwin 2.0 Offical Document,html/usage/collect-data.html,text/usage/collect-data.txt,2697
+page-212,http://robotwin-platform.github.io/doc/usage/domain-randomization.html,Domain Randomization - RoboTwin 2.0 Offical Document,html/usage/domain-randomization.html,text/usage/domain-randomization.txt,379
+page-213,http://robotwin-platform.github.io/doc/usage/configurations.html,Configurations - RoboTwin 2.0 Offical Document,html/usage/configurations.html,text/usage/configurations.txt,6451
+page-214,http://robotwin-platform.github.io/doc/usage/control-robot.html,Control Robot - RoboTwin 2.0 Offical Document,html/usage/control-robot.html,text/usage/control-robot.txt,1320
+page-215,http://robotwin-platform.github.io/doc/usage/deploy-your-policy.html,Deploy Your Policy - RoboTwin 2.0 Offical Document,html/usage/deploy-your-policy.html,text/usage/deploy-your-policy.txt,5533
+page-216,http://robotwin-platform.github.io/doc/usage/ACT.html,ACT - RoboTwin 2.0 Offical Document,html/usage/ACT.html,text/usage/ACT.txt,1731
+page-217,http://robotwin-platform.github.io/doc/usage/DP.html,DP - RoboTwin 2.0 Offical Document,html/usage/DP.html,text/usage/DP.txt,1961
+page-218,http://robotwin-platform.github.io/doc/usage/DP3.html,DP3 - RoboTwin 2.0 Offical Document,html/usage/DP3.html,text/usage/DP3.txt,2108
+page-219,http://robotwin-platform.github.io/doc/usage/RDT.html,RDT - RoboTwin 2.0 Offical Document,html/usage/RDT.html,text/usage/RDT.txt,4632
+page-220,http://robotwin-platform.github.io/doc/usage/Pi0.html,Pi0 - RoboTwin 2.0 Offical Document,html/usage/Pi0.html,text/usage/Pi0.txt,6191
+page-221,http://robotwin-platform.github.io/doc/usage/DexVLA.html,DexVLA - RoboTwin 2.0 Offical Document,html/usage/DexVLA.html,text/usage/DexVLA.txt,4480
+page-222,http://robotwin-platform.github.io/doc/usage/TinyVLA.html,TinyVLA - RoboTwin 2.0 Offical Document,html/usage/TinyVLA.html,text/usage/TinyVLA.txt,3401
+page-223,http://robotwin-platform.github.io/doc/usage/OpenVLA-oft.html,OpenVLA-oft - RoboTwin 2.0 Offical Document,html/usage/OpenVLA-oft.html,text/usage/OpenVLA-oft.txt,2445
+page-224,http://robotwin-platform.github.io/doc/usage/LLaVA-VLA.html,LLaVA-VLA - RoboTwin 2.0 Offical Document,html/usage/LLaVA-VLA.html,text/usage/LLaVA-VLA.txt,3156
+page-225,http://robotwin-platform.github.io/doc/usage/expert-code-gen.html,Expert Code Gen (for Novel Task) - RoboTwin 2.0 Offical Document,html/usage/expert-code-gen.html,text/usage/expert-code-gen.txt,6417
+page-226,http://robotwin-platform.github.io/doc/usage/API.html,API Tutorial - RoboTwin 2.0 Offical Document,html/usage/API.html,text/usage/API.txt,12933
+page-227,http://robotwin-platform.github.io/doc/usage/dual-env-policy-deploy.html,Dual Env (Policy and Deployment) - RoboTwin 2.0 Offical Document,html/usage/dual-env-policy-deploy.html,text/usage/dual-env-policy-deploy.txt,107
+page-228,http://robotwin-platform.github.io/doc/usage/description.html,Description Gen (Object & Task) - RoboTwin 2.0 Offical Document,html/usage/description.html,text/usage/description.txt,1164
+page-229,http://robotwin-platform.github.io/doc/usage/object-annotation.html,Object Annotation - RoboTwin 2.0 Offical Document,html/usage/object-annotation.html,text/usage/object-annotation.txt,5467
+page-230,http://robotwin-platform.github.io/doc/usage/new-embodiment.html,Configuring New Embodiment - RoboTwin 2.0 Offical Document,html/usage/new-embodiment.html,text/usage/new-embodiment.txt,21133
+page-231,http://robotwin-platform.github.io/doc/usage/new-camera.html,Configuring New Camera - RoboTwin 2.0 Offical Document,html/usage/new-camera.html,text/usage/new-camera.txt,372
+page-232,http://robotwin-platform.github.io/doc/tasks/adjust_bottle.html,Adjust Bottle - RoboTwin 2.0 Offical Document,html/tasks/adjust_bottle.html,text/tasks/adjust_bottle.txt,313
+page-233,http://robotwin-platform.github.io/doc/tasks/beat_block_hammer.html,Beat Block Hammer - RoboTwin 2.0 Offical Document,html/tasks/beat_block_hammer.html,text/tasks/beat_block_hammer.txt,363
+page-234,http://robotwin-platform.github.io/doc/tasks/blocks_ranking_rgb.html,Blocks Ranking RGB - RoboTwin 2.0 Offical Document,html/tasks/blocks_ranking_rgb.html,text/tasks/blocks_ranking_rgb.txt,382
+page-235,http://robotwin-platform.github.io/doc/tasks/blocks_ranking_size.html,Blocks Ranking Size - RoboTwin 2.0 Offical Document,html/tasks/blocks_ranking_size.html,text/tasks/blocks_ranking_size.txt,438
+page-236,http://robotwin-platform.github.io/doc/tasks/click_alarmclock.html,Click Alarmclock - RoboTwin 2.0 Offical Document,html/tasks/click_alarmclock.html,text/tasks/click_alarmclock.txt,331
+page-237,http://robotwin-platform.github.io/doc/tasks/click_bell.html,Click Bell - RoboTwin 2.0 Offical Document,html/tasks/click_bell.html,text/tasks/click_bell.txt,290
+page-238,http://robotwin-platform.github.io/doc/tasks/dump_bin_bigbin.html,Dump Bin Bigbin - RoboTwin 2.0 Offical Document,html/tasks/dump_bin_bigbin.html,text/tasks/dump_bin_bigbin.txt,333
+page-239,http://robotwin-platform.github.io/doc/tasks/grab_roller.html,Grab Roller - RoboTwin 2.0 Offical Document,html/tasks/grab_roller.html,text/tasks/grab_roller.txt,294
+page-240,http://robotwin-platform.github.io/doc/tasks/handover_block.html,Handover Block - RoboTwin 2.0 Offical Document,html/tasks/handover_block.html,text/tasks/handover_block.txt,361
+page-241,http://robotwin-platform.github.io/doc/tasks/handover_mic.html,Handover Mic - RoboTwin 2.0 Offical Document,html/tasks/handover_mic.html,text/tasks/handover_mic.txt,338
+page-242,http://robotwin-platform.github.io/doc/tasks/hanging_mug.html,Hanging Mug - RoboTwin 2.0 Offical Document,html/tasks/hanging_mug.html,text/tasks/hanging_mug.txt,423
+page-243,http://robotwin-platform.github.io/doc/tasks/lift_pot.html,Lift Pot - RoboTwin 2.0 Offical Document,html/tasks/lift_pot.html,text/tasks/lift_pot.txt,273
+page-244,http://robotwin-platform.github.io/doc/tasks/move_can_pot.html,Move Can Pot - RoboTwin 2.0 Offical Document,html/tasks/move_can_pot.html,text/tasks/move_can_pot.txt,371
+page-245,http://robotwin-platform.github.io/doc/tasks/move_playingcard_away.html,Move Playingcard Away - RoboTwin 2.0 Offical Document,html/tasks/move_playingcard_away.html,text/tasks/move_playingcard_away.txt,474
+page-246,http://robotwin-platform.github.io/doc/tasks/move_stapler_pad.html,Move Stapler Pad - RoboTwin 2.0 Offical Document,html/tasks/move_stapler_pad.html,text/tasks/move_stapler_pad.txt,318
+page-247,http://robotwin-platform.github.io/doc/tasks/open_laptop.html,Open Laptop - RoboTwin 2.0 Offical Document,html/tasks/open_laptop.html,text/tasks/open_laptop.txt,281
+page-248,http://robotwin-platform.github.io/doc/tasks/open_microwave.html,Open Microwave - RoboTwin 2.0 Offical Document,html/tasks/open_microwave.html,text/tasks/open_microwave.txt,292
+page-249,http://robotwin-platform.github.io/doc/tasks/pick_diverse_bottles.html,Pick Diverse Bottles - RoboTwin 2.0 Offical Document,html/tasks/pick_diverse_bottles.html,text/tasks/pick_diverse_bottles.txt,344
+page-250,http://robotwin-platform.github.io/doc/tasks/pick_dual_bottles.html,Pick Dual Bottles - RoboTwin 2.0 Offical Document,html/tasks/pick_dual_bottles.html,text/tasks/pick_dual_bottles.txt,338
+page-251,http://robotwin-platform.github.io/doc/tasks/place_a2b_left.html,Place A2B Left - RoboTwin 2.0 Offical Document,html/tasks/place_a2b_left.html,text/tasks/place_a2b_left.txt,464
+page-252,http://robotwin-platform.github.io/doc/tasks/place_a2b_right.html,Place A2B Right - RoboTwin 2.0 Offical Document,html/tasks/place_a2b_right.html,text/tasks/place_a2b_right.txt,467
+page-253,http://robotwin-platform.github.io/doc/tasks/place_bread_basket.html,Place Bread Basket - RoboTwin 2.0 Offical Document,html/tasks/place_bread_basket.html,text/tasks/place_bread_basket.txt,486
+page-254,http://robotwin-platform.github.io/doc/tasks/place_bread_skillet.html,Place Bread Skillet - RoboTwin 2.0 Offical Document,html/tasks/place_bread_skillet.html,text/tasks/place_bread_skillet.txt,371
+page-255,http://robotwin-platform.github.io/doc/tasks/place_burger_fries.html,Place Burger Fries - RoboTwin 2.0 Offical Document,html/tasks/place_burger_fries.html,text/tasks/place_burger_fries.txt,369
+page-256,http://robotwin-platform.github.io/doc/tasks/place_can_basket.html,Place Can Basket - RoboTwin 2.0 Offical Document,html/tasks/place_can_basket.html,text/tasks/place_can_basket.txt,361
+page-257,http://robotwin-platform.github.io/doc/tasks/place_cans_plasticbox.html,Place Cans Plasticbox - RoboTwin 2.0 Offical Document,html/tasks/place_cans_plasticbox.html,text/tasks/place_cans_plasticbox.txt,335
+page-258,http://robotwin-platform.github.io/doc/tasks/place_container_plate.html,Place Container Plate - RoboTwin 2.0 Offical Document,html/tasks/place_container_plate.html,text/tasks/place_container_plate.txt,323
+page-259,http://robotwin-platform.github.io/doc/tasks/place_dual_shoes.html,Place Dual Shoes - RoboTwin 2.0 Offical Document,html/tasks/place_dual_shoes.html,text/tasks/place_dual_shoes.txt,391
+page-260,http://robotwin-platform.github.io/doc/tasks/place_empty_cup.html,Place Empty Cup - RoboTwin 2.0 Offical Document,html/tasks/place_empty_cup.html,text/tasks/place_empty_cup.txt,319
+page-261,http://robotwin-platform.github.io/doc/tasks/place_fan.html,Place Fan - RoboTwin 2.0 Offical Document,html/tasks/place_fan.html,text/tasks/place_fan.txt,335
+page-262,http://robotwin-platform.github.io/doc/tasks/place_mouse_pad.html,Place Mouse Pad - RoboTwin 2.0 Offical Document,html/tasks/place_mouse_pad.html,text/tasks/place_mouse_pad.txt,310
+page-263,http://robotwin-platform.github.io/doc/tasks/place_object_basket.html,Place Object Basket - RoboTwin 2.0 Offical Document,html/tasks/place_object_basket.html,text/tasks/place_object_basket.txt,443
+page-264,http://robotwin-platform.github.io/doc/tasks/place_object_scale.html,Place Object Scale - RoboTwin 2.0 Offical Document,html/tasks/place_object_scale.html,text/tasks/place_object_scale.txt,361
+page-265,http://robotwin-platform.github.io/doc/tasks/place_object_stand.html,Place Object Stand - RoboTwin 2.0 Offical Document,html/tasks/place_object_stand.html,text/tasks/place_object_stand.txt,403
+page-266,http://robotwin-platform.github.io/doc/tasks/place_phone_stand.html,Place Phone Stand - RoboTwin 2.0 Offical Document,html/tasks/place_phone_stand.html,text/tasks/place_phone_stand.txt,325
+page-267,http://robotwin-platform.github.io/doc/tasks/place_shoe.html,Place Shoe - RoboTwin 2.0 Offical Document,html/tasks/place_shoe.html,text/tasks/place_shoe.txt,320
+page-268,http://robotwin-platform.github.io/doc/tasks/press_stapler.html,Press Stapler - RoboTwin 2.0 Offical Document,html/tasks/press_stapler.html,text/tasks/press_stapler.txt,289
+page-269,http://robotwin-platform.github.io/doc/tasks/put_bottles_dustbin.html,Put Bottles Dustbin - RoboTwin 2.0 Offical Document,html/tasks/put_bottles_dustbin.html,text/tasks/put_bottles_dustbin.txt,360
+page-270,http://robotwin-platform.github.io/doc/tasks/put_object_cabinet.html,Put Object Cabinet - RoboTwin 2.0 Offical Document,html/tasks/put_object_cabinet.html,text/tasks/put_object_cabinet.txt,501
+page-271,http://robotwin-platform.github.io/doc/tasks/rotate_qrcode.html,Rotate QRcode - RoboTwin 2.0 Offical Document,html/tasks/rotate_qrcode.html,text/tasks/rotate_qrcode.txt,369
+page-272,http://robotwin-platform.github.io/doc/tasks/scan_object.html,Scan Object - RoboTwin 2.0 Offical Document,html/tasks/scan_object.html,text/tasks/scan_object.txt,375
+page-273,http://robotwin-platform.github.io/doc/tasks/shake_bottle_horizontally.html,Shake Bottle Horizontally - RoboTwin 2.0 Offical Document,html/tasks/shake_bottle_horizontally.html,text/tasks/shake_bottle_horizontally.txt,324
+page-274,http://robotwin-platform.github.io/doc/tasks/shake_bottle.html,Shake Bottle - RoboTwin 2.0 Offical Document,html/tasks/shake_bottle.html,text/tasks/shake_bottle.txt,285
+page-275,http://robotwin-platform.github.io/doc/tasks/stack_blocks_three.html,Stack Blocks Three - RoboTwin 2.0 Offical Document,html/tasks/stack_blocks_three.html,text/tasks/stack_blocks_three.txt,469
+page-276,http://robotwin-platform.github.io/doc/tasks/stack_blocks_two.html,Stack Blocks Two - RoboTwin 2.0 Offical Document,html/tasks/stack_blocks_two.html,text/tasks/stack_blocks_two.txt,414
+page-277,http://robotwin-platform.github.io/doc/tasks/stack_bowls_three.html,Stack Bowls Three - RoboTwin 2.0 Offical Document,html/tasks/stack_bowls_three.html,text/tasks/stack_bowls_three.txt,302
+page-278,http://robotwin-platform.github.io/doc/tasks/stack_bowls_two.html,Stack Bowls Two - RoboTwin 2.0 Offical Document,html/tasks/stack_bowls_two.html,text/tasks/stack_bowls_two.txt,296
+page-279,http://robotwin-platform.github.io/doc/tasks/stamp_seal.html,Stamp Seal - RoboTwin 2.0 Offical Document,html/tasks/stamp_seal.html,text/tasks/stamp_seal.txt,306
+page-280,http://robotwin-platform.github.io/doc/tasks/turn_switch.html,Turn Switch - RoboTwin 2.0 Offical Document,html/tasks/turn_switch.html,text/tasks/turn_switch.txt,288
+page-281,http://robotwin-platform.github.io/doc/tasks/move_pillbottle_pad.html,Move Pillbottle Pad - RoboTwin 2.0 Offical Document,html/tasks/move_pillbottle_pad.html,text/tasks/move_pillbottle_pad.txt,338
+page-282,http://robotwin-platform.github.io/doc/objects/001_bottle.html,001_Bottle - RoboTwin 2.0 Offical Document,html/objects/001_bottle.html,text/objects/001_bottle.txt,206
+page-283,http://robotwin-platform.github.io/doc/objects/002_bowl.html,002_Bowl - RoboTwin 2.0 Offical Document,html/objects/002_bowl.html,text/objects/002_bowl.txt,93
+page-284,http://robotwin-platform.github.io/doc/objects/003_plate.html,003_Plate - RoboTwin 2.0 Offical Document,html/objects/003_plate.html,text/objects/003_plate.txt,59
+page-285,http://robotwin-platform.github.io/doc/objects/004_fluted-block.html,004_Fluted-Block - RoboTwin 2.0 Offical Document,html/objects/004_fluted-block.html,text/objects/004_fluted-block.txt,79
+page-286,http://robotwin-platform.github.io/doc/objects/005_french-fries.html,005_French-Fries - RoboTwin 2.0 Offical Document,html/objects/005_french-fries.html,text/objects/005_french-fries.txt,91
+page-287,http://robotwin-platform.github.io/doc/objects/006_hamburg.html,006_Hamburg - RoboTwin 2.0 Offical Document,html/objects/006_hamburg.html,text/objects/006_hamburg.txt,93
+page-288,http://robotwin-platform.github.io/doc/objects/007_shoe-box.html,007_Shoe-Box - RoboTwin 2.0 Offical Document,html/objects/007_shoe-box.html,text/objects/007_shoe-box.txt,65
+page-289,http://robotwin-platform.github.io/doc/objects/008_tray.html,008_Tray - RoboTwin 2.0 Offical Document,html/objects/008_tray.html,text/objects/008_tray.txt,75
+page-290,http://robotwin-platform.github.io/doc/objects/009_kettle.html,009_Kettle - RoboTwin 2.0 Offical Document,html/objects/009_kettle.html,text/objects/009_kettle.txt,73
+page-291,http://robotwin-platform.github.io/doc/objects/010_pen.html,010_Pen - RoboTwin 2.0 Offical Document,html/objects/010_pen.html,text/objects/010_pen.txt,84
+page-292,http://robotwin-platform.github.io/doc/objects/011_dustbin.html,011_Dustbin - RoboTwin 2.0 Offical Document,html/objects/011_dustbin.html,text/objects/011_dustbin.txt,63
+page-293,http://robotwin-platform.github.io/doc/objects/012_plant-pot.html,012_Plant-Pot - RoboTwin 2.0 Offical Document,html/objects/012_plant-pot.html,text/objects/012_plant-pot.txt,91
+page-294,http://robotwin-platform.github.io/doc/objects/013_dumbbell-rack.html,013_Dumbbell-Rack - RoboTwin 2.0 Offical Document,html/objects/013_dumbbell-rack.html,text/objects/013_dumbbell-rack.txt,93
+page-295,http://robotwin-platform.github.io/doc/objects/014_bookcase.html,014_Bookcase - RoboTwin 2.0 Offical Document,html/objects/014_bookcase.html,text/objects/014_bookcase.txt,83
+page-296,http://robotwin-platform.github.io/doc/objects/015_laptop.html,015_Laptop - RoboTwin 2.0 Offical Document,html/objects/015_laptop.html,text/objects/015_laptop.txt,122
+page-297,http://robotwin-platform.github.io/doc/objects/016_oven.html,016_Oven - RoboTwin 2.0 Offical Document,html/objects/016_oven.html,text/objects/016_oven.txt,87
+page-298,http://robotwin-platform.github.io/doc/objects/017_calculator.html,017_Calculator - RoboTwin 2.0 Offical Document,html/objects/017_calculator.html,text/objects/017_calculator.txt,99
+page-299,http://robotwin-platform.github.io/doc/objects/018_microphone.html,018_Microphone - RoboTwin 2.0 Offical Document,html/objects/018_microphone.html,text/objects/018_microphone.txt,87
+page-300,http://robotwin-platform.github.io/doc/objects/019_coaster.html,019_Coaster - RoboTwin 2.0 Offical Document,html/objects/019_coaster.html,text/objects/019_coaster.txt,63
+page-301,http://robotwin-platform.github.io/doc/objects/020_hammer.html,020_Hammer - RoboTwin 2.0 Offical Document,html/objects/020_hammer.html,text/objects/020_hammer.txt,61
+page-302,http://robotwin-platform.github.io/doc/objects/021_cup.html,021_Cup - RoboTwin 2.0 Offical Document,html/objects/021_cup.html,text/objects/021_cup.txt,130
+page-303,http://robotwin-platform.github.io/doc/objects/022_cup-with-liquid.html,022_Cup-With-Liquid - RoboTwin 2.0 Offical Document,html/objects/022_cup-with-liquid.html,text/objects/022_cup-with-liquid.txt,79
+page-304,http://robotwin-platform.github.io/doc/objects/023_tissue-box.html,023_Tissue-Box - RoboTwin 2.0 Offical Document,html/objects/023_tissue-box.html,text/objects/023_tissue-box.txt,105
+page-305,http://robotwin-platform.github.io/doc/objects/024_scanner.html,024_Scanner - RoboTwin 2.0 Offical Document,html/objects/024_scanner.html,text/objects/024_scanner.txt,87
+page-306,http://robotwin-platform.github.io/doc/objects/025_chips-tub.html,025_Chips-Tub - RoboTwin 2.0 Offical Document,html/objects/025_chips-tub.html,text/objects/025_chips-tub.txt,85
+page-307,http://robotwin-platform.github.io/doc/objects/026_pet-collar.html,026_Pet-Collar - RoboTwin 2.0 Offical Document,html/objects/026_pet-collar.html,text/objects/026_pet-collar.txt,87
+page-308,http://robotwin-platform.github.io/doc/objects/027_table-tennis.html,027_Table-Tennis - RoboTwin 2.0 Offical Document,html/objects/027_table-tennis.html,text/objects/027_table-tennis.txt,79
+page-309,http://robotwin-platform.github.io/doc/objects/028_roll-paper.html,028_Roll-Paper - RoboTwin 2.0 Offical Document,html/objects/028_roll-paper.html,text/objects/028_roll-paper.txt,87
+page-310,http://robotwin-platform.github.io/doc/objects/029_olive-oil.html,029_Olive-Oil - RoboTwin 2.0 Offical Document,html/objects/029_olive-oil.html,text/objects/029_olive-oil.txt,91
+page-311,http://robotwin-platform.github.io/doc/objects/030_drill.html,030_Drill - RoboTwin 2.0 Offical Document,html/objects/030_drill.html,text/objects/030_drill.txt,95
+page-312,http://robotwin-platform.github.io/doc/objects/031_jam-jar.html,031_Jam-Jar - RoboTwin 2.0 Offical Document,html/objects/031_jam-jar.html,text/objects/031_jam-jar.txt,87
+page-313,http://robotwin-platform.github.io/doc/objects/032_screwdriver.html,032_Screwdriver - RoboTwin 2.0 Offical Document,html/objects/032_screwdriver.html,text/objects/032_screwdriver.txt,71
+page-314,http://robotwin-platform.github.io/doc/objects/033_fork.html,033_Fork - RoboTwin 2.0 Offical Document,html/objects/033_fork.html,text/objects/033_fork.txt,57
+page-315,http://robotwin-platform.github.io/doc/objects/034_knife.html,034_Knife - RoboTwin 2.0 Offical Document,html/objects/034_knife.html,text/objects/034_knife.txt,59
+page-316,http://robotwin-platform.github.io/doc/objects/035_apple.html,035_Apple - RoboTwin 2.0 Offical Document,html/objects/035_apple.html,text/objects/035_apple.txt,65
+page-317,http://robotwin-platform.github.io/doc/objects/036_cabinet.html,036_Cabinet - RoboTwin 2.0 Offical Document,html/objects/036_cabinet.html,text/objects/036_cabinet.txt,63
+page-318,http://robotwin-platform.github.io/doc/objects/037_box.html,037_Box - RoboTwin 2.0 Offical Document,html/objects/037_box.html,text/objects/037_box.txt,55
+page-319,http://robotwin-platform.github.io/doc/objects/038_milk-box.html,038_Milk-Box - RoboTwin 2.0 Offical Document,html/objects/038_milk-box.html,text/objects/038_milk-box.txt,83
+page-320,http://robotwin-platform.github.io/doc/objects/039_mug.html,039_Mug - RoboTwin 2.0 Offical Document,html/objects/039_mug.html,text/objects/039_mug.txt,130
+page-321,http://robotwin-platform.github.io/doc/objects/040_rack.html,040_Rack - RoboTwin 2.0 Offical Document,html/objects/040_rack.html,text/objects/040_rack.txt,57
+page-322,http://robotwin-platform.github.io/doc/objects/041_shoe.html,041_Shoe - RoboTwin 2.0 Offical Document,html/objects/041_shoe.html,text/objects/041_shoe.txt,111
+page-323,http://robotwin-platform.github.io/doc/objects/042_wooden_box.html,042_Wooden_Box - RoboTwin 2.0 Offical Document,html/objects/042_wooden_box.html,text/objects/042_wooden_box.txt,69
+page-324,http://robotwin-platform.github.io/doc/objects/043_book.html,043_Book - RoboTwin 2.0 Offical Document,html/objects/043_book.html,text/objects/043_book.txt,63
+page-325,http://robotwin-platform.github.io/doc/objects/044_microwave.html,044_Microwave - RoboTwin 2.0 Offical Document,html/objects/044_microwave.html,text/objects/044_microwave.txt,73
+page-326,http://robotwin-platform.github.io/doc/objects/045_sand-clock.html,045_Sand-Clock - RoboTwin 2.0 Offical Document,html/objects/045_sand-clock.html,text/objects/045_sand-clock.txt,81
+page-327,http://robotwin-platform.github.io/doc/objects/046_alarm-clock.html,046_Alarm-Clock - RoboTwin 2.0 Offical Document,html/objects/046_alarm-clock.html,text/objects/046_alarm-clock.txt,101
+page-328,http://robotwin-platform.github.io/doc/objects/047_mouse.html,047_Mouse - RoboTwin 2.0 Offical Document,html/objects/047_mouse.html,text/objects/047_mouse.txt,71
+page-329,http://robotwin-platform.github.io/doc/objects/048_stapler.html,048_Stapler - RoboTwin 2.0 Offical Document,html/objects/048_stapler.html,text/objects/048_stapler.txt,99
+page-330,http://robotwin-platform.github.io/doc/objects/049_shampoo.html,049_Shampoo - RoboTwin 2.0 Offical Document,html/objects/049_shampoo.html,text/objects/049_shampoo.txt,99
+page-331,http://robotwin-platform.github.io/doc/objects/050_bell.html,050_Bell - RoboTwin 2.0 Offical Document,html/objects/050_bell.html,text/objects/050_bell.txt,63
+page-332,http://robotwin-platform.github.io/doc/objects/051_candlestick.html,051_Candlestick - RoboTwin 2.0 Offical Document,html/objects/051_candlestick.html,text/objects/051_candlestick.txt,95
+page-333,http://robotwin-platform.github.io/doc/objects/052_dumbbell.html,052_Dumbbell - RoboTwin 2.0 Offical Document,html/objects/052_dumbbell.html,text/objects/052_dumbbell.txt,101
+page-334,http://robotwin-platform.github.io/doc/objects/053_teanet.html,053_Teanet - RoboTwin 2.0 Offical Document,html/objects/053_teanet.html,text/objects/053_teanet.txt,85
+page-335,http://robotwin-platform.github.io/doc/objects/054_baguette.html,054_Baguette - RoboTwin 2.0 Offical Document,html/objects/054_baguette.html,text/objects/054_baguette.txt,71
+page-336,http://robotwin-platform.github.io/doc/objects/055_small-speaker.html,055_Small-Speaker - RoboTwin 2.0 Offical Document,html/objects/055_small-speaker.html,text/objects/055_small-speaker.txt,87
+page-337,http://robotwin-platform.github.io/doc/objects/056_switch.html,056_Switch - RoboTwin 2.0 Offical Document,html/objects/056_switch.html,text/objects/056_switch.txt,103
+page-338,http://robotwin-platform.github.io/doc/objects/057_toycar.html,057_Toycar - RoboTwin 2.0 Offical Document,html/objects/057_toycar.html,text/objects/057_toycar.txt,91
+page-339,http://robotwin-platform.github.io/doc/objects/058_markpen.html,058_Markpen - RoboTwin 2.0 Offical Document,html/objects/058_markpen.html,text/objects/058_markpen.txt,93
+page-340,http://robotwin-platform.github.io/doc/objects/059_pencup.html,059_Pencup - RoboTwin 2.0 Offical Document,html/objects/059_pencup.html,text/objects/059_pencup.txt,97
+page-341,http://robotwin-platform.github.io/doc/objects/060_kitchenpot.html,060_Kitchenpot - RoboTwin 2.0 Offical Document,html/objects/060_kitchenpot.html,text/objects/060_kitchenpot.txt,111
+page-342,http://robotwin-platform.github.io/doc/objects/061_battery.html,061_Battery - RoboTwin 2.0 Offical Document,html/objects/061_battery.html,text/objects/061_battery.txt,93
+page-343,http://robotwin-platform.github.io/doc/objects/062_plasticbox.html,062_Plasticbox - RoboTwin 2.0 Offical Document,html/objects/062_plasticbox.html,text/objects/062_plasticbox.txt,130
+page-344,http://robotwin-platform.github.io/doc/objects/063_tabletrashbin.html,063_Tabletrashbin - RoboTwin 2.0 Offical Document,html/objects/063_tabletrashbin.html,text/objects/063_tabletrashbin.txt,136
+page-345,http://robotwin-platform.github.io/doc/objects/064_msg.html,064_Msg - RoboTwin 2.0 Offical Document,html/objects/064_msg.html,text/objects/064_msg.txt,85
+page-346,http://robotwin-platform.github.io/doc/objects/065_soy-sauce.html,065_Soy-Sauce - RoboTwin 2.0 Offical Document,html/objects/065_soy-sauce.html,text/objects/065_soy-sauce.txt,91
+page-347,http://robotwin-platform.github.io/doc/objects/066_vinegar.html,066_Vinegar - RoboTwin 2.0 Offical Document,html/objects/066_vinegar.html,text/objects/066_vinegar.txt,75
+page-348,http://robotwin-platform.github.io/doc/objects/067_steamer.html,067_Steamer - RoboTwin 2.0 Offical Document,html/objects/067_steamer.html,text/objects/067_steamer.txt,75
+page-349,http://robotwin-platform.github.io/doc/objects/068_boxdrink.html,068_Boxdrink - RoboTwin 2.0 Offical Document,html/objects/068_boxdrink.html,text/objects/068_boxdrink.txt,83
+page-350,http://robotwin-platform.github.io/doc/objects/069_vagetable.html,069_Vagetable - RoboTwin 2.0 Offical Document,html/objects/069_vagetable.html,text/objects/069_vagetable.txt,103
+page-351,http://robotwin-platform.github.io/doc/objects/070_paymentsign.html,070_Paymentsign - RoboTwin 2.0 Offical Document,html/objects/070_paymentsign.html,text/objects/070_paymentsign.txt,89
+page-352,http://robotwin-platform.github.io/doc/objects/071_can.html,071_Can - RoboTwin 2.0 Offical Document,html/objects/071_can.html,text/objects/071_can.txt,85
+page-353,http://robotwin-platform.github.io/doc/objects/072_electronicscale.html,072_Electronicscale - RoboTwin 2.0 Offical Document,html/objects/072_electronicscale.html,text/objects/072_electronicscale.txt,103
+page-354,http://robotwin-platform.github.io/doc/objects/073_rubikscube.html,073_Rubikscube - RoboTwin 2.0 Offical Document,html/objects/073_rubikscube.html,text/objects/073_rubikscube.txt,81
+page-355,http://robotwin-platform.github.io/doc/objects/074_displaystand.html,074_Displaystand - RoboTwin 2.0 Offical Document,html/objects/074_displaystand.html,text/objects/074_displaystand.txt,97
+page-356,http://robotwin-platform.github.io/doc/objects/075_bread.html,075_Bread - RoboTwin 2.0 Offical Document,html/objects/075_bread.html,text/objects/075_bread.txt,95
+page-357,http://robotwin-platform.github.io/doc/objects/076_breadbasket.html,076_Breadbasket - RoboTwin 2.0 Offical Document,html/objects/076_breadbasket.html,text/objects/076_breadbasket.txt,95
+page-358,http://robotwin-platform.github.io/doc/objects/077_phone.html,077_Phone - RoboTwin 2.0 Offical Document,html/objects/077_phone.html,text/objects/077_phone.txt,83
+page-359,http://robotwin-platform.github.io/doc/objects/078_phonestand.html,078_Phonestand - RoboTwin 2.0 Offical Document,html/objects/078_phonestand.html,text/objects/078_phonestand.txt,105
+page-360,http://robotwin-platform.github.io/doc/objects/079_remotecontrol.html,079_Remotecontrol - RoboTwin 2.0 Offical Document,html/objects/079_remotecontrol.html,text/objects/079_remotecontrol.txt,111
+page-361,http://robotwin-platform.github.io/doc/objects/080_pillbottle.html,080_Pillbottle - RoboTwin 2.0 Offical Document,html/objects/080_pillbottle.html,text/objects/080_pillbottle.txt,93
+page-362,http://robotwin-platform.github.io/doc/objects/081_playingcards.html,081_Playingcards - RoboTwin 2.0 Offical Document,html/objects/081_playingcards.html,text/objects/081_playingcards.txt,85
+page-363,http://robotwin-platform.github.io/doc/objects/082_smallshovel.html,082_Smallshovel - RoboTwin 2.0 Offical Document,html/objects/082_smallshovel.html,text/objects/082_smallshovel.txt,89
+page-364,http://robotwin-platform.github.io/doc/objects/083_brush.html,083_Brush - RoboTwin 2.0 Offical Document,html/objects/083_brush.html,text/objects/083_brush.txt,77
+page-365,http://robotwin-platform.github.io/doc/objects/084_woodenmallet.html,084_Woodenmallet - RoboTwin 2.0 Offical Document,html/objects/084_woodenmallet.html,text/objects/084_woodenmallet.txt,97
+page-366,http://robotwin-platform.github.io/doc/objects/085_gong.html,085_Gong - RoboTwin 2.0 Offical Document,html/objects/085_gong.html,text/objects/085_gong.txt,87
+page-367,http://robotwin-platform.github.io/doc/objects/086_woodenblock.html,086_Woodenblock - RoboTwin 2.0 Offical Document,html/objects/086_woodenblock.html,text/objects/086_woodenblock.txt,95
+page-368,http://robotwin-platform.github.io/doc/objects/087_waterer.html,087_Waterer - RoboTwin 2.0 Offical Document,html/objects/087_waterer.html,text/objects/087_waterer.txt,105
+page-369,http://robotwin-platform.github.io/doc/objects/088_wineglass.html,088_Wineglass - RoboTwin 2.0 Offical Document,html/objects/088_wineglass.html,text/objects/088_wineglass.txt,91
+page-370,http://robotwin-platform.github.io/doc/objects/089_globe.html,089_Globe - RoboTwin 2.0 Offical Document,html/objects/089_globe.html,text/objects/089_globe.txt,65
+page-371,http://robotwin-platform.github.io/doc/objects/090_trophy.html,090_Trophy - RoboTwin 2.0 Offical Document,html/objects/090_trophy.html,text/objects/090_trophy.txt,85
+page-372,http://robotwin-platform.github.io/doc/objects/091_kettle.html,091_Kettle - RoboTwin 2.0 Offical Document,html/objects/091_kettle.html,text/objects/091_kettle.txt,91
+page-373,http://robotwin-platform.github.io/doc/objects/092_notebook.html,092_Notebook - RoboTwin 2.0 Offical Document,html/objects/092_notebook.html,text/objects/092_notebook.txt,77
+page-374,http://robotwin-platform.github.io/doc/objects/093_brush-pen.html,093_Brush-Pen - RoboTwin 2.0 Offical Document,html/objects/093_brush-pen.html,text/objects/093_brush-pen.txt,97
+page-375,http://robotwin-platform.github.io/doc/objects/094_rest.html,094_Rest - RoboTwin 2.0 Offical Document,html/objects/094_rest.html,text/objects/094_rest.txt,75
+page-376,http://robotwin-platform.github.io/doc/objects/095_glue.html,095_Glue - RoboTwin 2.0 Offical Document,html/objects/095_glue.html,text/objects/095_glue.txt,87
+page-377,http://robotwin-platform.github.io/doc/objects/096_cleaner.html,096_Cleaner - RoboTwin 2.0 Offical Document,html/objects/096_cleaner.html,text/objects/096_cleaner.txt,81
+page-378,http://robotwin-platform.github.io/doc/objects/097_screen.html,097_Screen - RoboTwin 2.0 Offical Document,html/objects/097_screen.html,text/objects/097_screen.txt,79
+page-379,http://robotwin-platform.github.io/doc/objects/098_speaker.html,098_Speaker - RoboTwin 2.0 Offical Document,html/objects/098_speaker.html,text/objects/098_speaker.txt,93
+page-380,http://robotwin-platform.github.io/doc/objects/099_fan.html,099_Fan - RoboTwin 2.0 Offical Document,html/objects/099_fan.html,text/objects/099_fan.txt,91
+page-381,http://robotwin-platform.github.io/doc/objects/100_seal.html,100_Seal - RoboTwin 2.0 Offical Document,html/objects/100_seal.html,text/objects/100_seal.txt,87
+page-382,http://robotwin-platform.github.io/doc/objects/101_milk-tea.html,101_Milk-Tea - RoboTwin 2.0 Offical Document,html/objects/101_milk-tea.html,text/objects/101_milk-tea.txt,95
+page-383,http://robotwin-platform.github.io/doc/objects/102_roller.html,102_Roller - RoboTwin 2.0 Offical Document,html/objects/102_roller.html,text/objects/102_roller.txt,73
+page-384,http://robotwin-platform.github.io/doc/objects/103_fruit.html,103_Fruit - RoboTwin 2.0 Offical Document,html/objects/103_fruit.html,text/objects/103_fruit.txt,95
+page-385,http://robotwin-platform.github.io/doc/objects/104_board.html,104_Board - RoboTwin 2.0 Offical Document,html/objects/104_board.html,text/objects/104_board.txt,83
+page-386,http://robotwin-platform.github.io/doc/objects/105_sauce-can.html,105_Sauce-Can - RoboTwin 2.0 Offical Document,html/objects/105_sauce-can.html,text/objects/105_sauce-can.txt,91
+page-387,http://robotwin-platform.github.io/doc/objects/106_skillet.html,106_Skillet - RoboTwin 2.0 Offical Document,html/objects/106_skillet.html,text/objects/106_skillet.txt,81
+page-388,http://robotwin-platform.github.io/doc/objects/107_soap.html,107_Soap - RoboTwin 2.0 Offical Document,html/objects/107_soap.html,text/objects/107_soap.txt,75
+page-389,http://robotwin-platform.github.io/doc/objects/108_block.html,108_Block - RoboTwin 2.0 Offical Document,html/objects/108_block.html,text/objects/108_block.txt,95
+page-390,http://robotwin-platform.github.io/doc/objects/109_hydrating-oil.html,109_Hydrating-Oil - RoboTwin 2.0 Offical Document,html/objects/109_hydrating-oil.html,text/objects/109_hydrating-oil.txt,93
+page-391,http://robotwin-platform.github.io/doc/objects/110_basket.html,110_Basket - RoboTwin 2.0 Offical Document,html/objects/110_basket.html,text/objects/110_basket.txt,79
+page-392,http://robotwin-platform.github.io/doc/objects/111_callbell.html,111_Callbell - RoboTwin 2.0 Offical Document,html/objects/111_callbell.html,text/objects/111_callbell.txt,95
+page-393,http://robotwin-platform.github.io/doc/objects/112_tea-box.html,112_Tea-Box - RoboTwin 2.0 Offical Document,html/objects/112_tea-box.html,text/objects/112_tea-box.txt,93
+page-394,http://robotwin-platform.github.io/doc/objects/113_coffee-box.html,113_Coffee-Box - RoboTwin 2.0 Offical Document,html/objects/113_coffee-box.html,text/objects/113_coffee-box.txt,105
+page-395,http://robotwin-platform.github.io/doc/objects/114_bottle.html,114_Bottle - RoboTwin 2.0 Offical Document,html/objects/114_bottle.html,text/objects/114_bottle.txt,79
+page-396,http://robotwin-platform.github.io/doc/objects/115_perfume.html,115_Perfume - RoboTwin 2.0 Offical Document,html/objects/115_perfume.html,text/objects/115_perfume.txt,81
+page-397,http://robotwin-platform.github.io/doc/objects/116_keyboard.html,116_Keyboard - RoboTwin 2.0 Offical Document,html/objects/116_keyboard.html,text/objects/116_keyboard.txt,83
+page-398,http://robotwin-platform.github.io/doc/objects/117_whiteboard-eraser.html,117_Whiteboard-Eraser - RoboTwin 2.0 Offical Document,html/objects/117_whiteboard-eraser.html,text/objects/117_whiteboard-eraser.txt,83
+page-399,http://robotwin-platform.github.io/doc/objects/118_tooth-paste.html,118_Tooth-Paste - RoboTwin 2.0 Offical Document,html/objects/118_tooth-paste.html,text/objects/118_tooth-paste.txt,71
+page-400,http://robotwin-platform.github.io/doc/objects/119_mini-chalkboard.html,119_Mini-Chalkboard - RoboTwin 2.0 Offical Document,html/objects/119_mini-chalkboard.html,text/objects/119_mini-chalkboard.txt,79
+page-401,http://robotwin-platform.github.io/doc/objects/120_plant.html,120_Plant - RoboTwin 2.0 Offical Document,html/objects/120_plant.html,text/objects/120_plant.txt,59
+page-402,http://robotwin-platform.github.io/doc/usage/object_marking/model_data_info.html,Model data info - RoboTwin 2.0 Offical Document,html/usage/object_marking/model_data_info.html,text/usage/object_marking/model_data_info.txt,746

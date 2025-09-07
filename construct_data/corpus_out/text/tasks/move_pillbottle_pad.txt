@@ -1,0 +1,20 @@
+Move Pillbottle Pad - RoboTwin 2.0 Offical Document
+# Move Pillbottle Pad
+Description
+: Use one arm to pick the pillbottle and place it onto the pad.
+Average Steps
+: 147 (Aloha-AgileX, save_freq=15)
+Objects
+: 080_pillbottle, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+67%
+90%
+69%
+47%
+86%

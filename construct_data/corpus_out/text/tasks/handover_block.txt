@@ -1,0 +1,20 @@
+Handover Block - RoboTwin 2.0 Offical Document
+# Handover Block
+Description
+: Use the left arm to grasp the red block on the table, handover it to the right arm and place it on the blue pad.
+Average Steps
+: 283 (Aloha-AgileX, save_freq=15)
+Objects
+: block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+83%
+81%
+0%
+44%
+0%

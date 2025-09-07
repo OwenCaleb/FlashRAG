@@ -1,0 +1,89 @@
+RoboTwin 2.0 - RoboTwin 2.0 Offical Document
+Skip to content
+# RoboTwin 2.0 ¶
+### Webpage | PDF | arXiv | Repo | Talk (in Chinese) | LeaderBoard
+Here is the official documentation for RoboTwin 2.0, which includes installation and usage instructions for various RoboTwin functionalities, detailed information on the 50 bimanual tasks in RoboTwin 2.0, comprehensive descriptions of the RoboTwin-OD dataset, and guidelines for joining the community.
+## 1. Everything about RoboTwin 2.0 ¶
+RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
+Tianxing Chen
+*
+, Zanxin Chen
+*
+, Baijun Chen
+*
+, Zijian Cai
+*
+,
+Yibin Liu
+*
+,
+Qiwei Liang
+, Zixuan Li, Xianliang Lin,
+Yiheng Ge
+, Zhenyu Gu, Weiliang Deng, Yubin Guo, Tian Nian, Xuanbing Xie,
+Qiangyu Chen
+, Kailun Su, Tianling Xu, Guodong Liu,
+Mengkang Hu
+,
+Huan-ang Gao
+, Kaixuan Wang,
+Zhixuan Liang
+,
+Yusen Qin
+, Xiaokang Yang,
+Ping Luo
+†
+,
+Yao Mu
+†
+## 2. Previous Works ¶
+[Under Review]
+RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
+[CVPR 2025 Highlight]
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins
+[CVPR 2025 Challenge@MEIS Workshop]
+Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop
+[ECCV 2024 MAAS Workshop Best Paper]
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)
+[第十九届挑战杯官方赛题]
+赛题链接
+## 3. Citations ¶
+If you find our work useful, please consider citing:
+RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation
+@article{chen2025robotwin,
+title={RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation},
+author={Chen, Tianxing and Chen, Zanxin and Chen, Baijun and Cai, Zijian and Liu, Yibin and Liang, Qiwei and Li, Zixuan and Lin, Xianliang and Ge, Yiheng and Gu, Zhenyu and others},
+journal={arXiv preprint arXiv:2506.18088},
+year={2025}
+}
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins, accepted to
+CVPR 2025 (Highlight)
+@InProceedings{Mu_2025_CVPR,
+author = {Mu, Yao and Chen, Tianxing and Chen, Zanxin and Peng, Shijia and Lan, Zhiqian and Gao, Zeyu and Liang, Zhixuan and Yu, Qiaojun and Zou, Yude and Xu, Mingkun and Lin, Lunkai and Xie, Zhiqiang and Ding, Mingyu and Luo, Ping},
+title = {RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins},
+booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+month = {June},
+year = {2025},
+pages = {27649-27660}
+}
+Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop
+@article{chen2025benchmarking,
+title={Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop},
+author={Chen, Tianxing and Wang, Kaixuan and Yang, Zhaohui and Zhang, Yuhao and Chen, Zanxin and Chen, Baijun and Dong, Wanxi and Liu, Ziyuan and Chen, Dong and Yang, Tianshuo and others},
+journal={arXiv preprint arXiv:2506.23351},
+year={2025}
+}
+RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (
+early version
+), accepted to
+ECCV Workshop 2024 (Best Paper)
+@article{mu2024robotwin,
+title={RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)},
+author={Mu, Yao and Chen, Tianxing and Peng, Shijia and Chen, Zanxin and Gao, Zeyu and Zou, Yude and Lin, Lunkai and Xie, Zhiqiang and Luo, Ping},
+journal={arXiv preprint arXiv:2409.02920},
+year={2024}
+}
+## 4. Contact ¶
+Contact
+Tianxing Chen
+if you have any questions or suggestions.

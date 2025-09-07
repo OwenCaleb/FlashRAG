@@ -1,0 +1,20 @@
+Stamp Seal - RoboTwin 2.0 Offical Document
+# Stamp Seal
+Description
+: Grab the stamp and stamp onto the specific color mat.
+Average Steps
+: 151 (Aloha-AgileX, save_freq=15)
+Objects
+: 100_seal, block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+56%
+91%
+4%
+37%
+100%

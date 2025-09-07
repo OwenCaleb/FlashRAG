@@ -1,0 +1,20 @@
+Stack Blocks Three - RoboTwin 2.0 Offical Document
+# Stack Blocks Three
+Description
+: There are three blocks on the table, the color of the blocks is red, green and blue. Move the blocks to the center of the table, and stack the blue block on the green block, and the green block on the red block.
+Average Steps
+: 481 (Aloha-AgileX, save_freq=15)
+Objects
+: block
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+94%
+96%
+80%
+0%
+51%

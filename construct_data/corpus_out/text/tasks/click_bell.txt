@@ -1,0 +1,20 @@
+Click Bell - RoboTwin 2.0 Offical Document
+# Click Bell
+Description
+: Click the bell's top center on the table.
+Average Steps
+: 85 (Aloha-AgileX, save_freq=15)
+Objects
+: 050_bell
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+100%
+100%
+100%
+91%
+100%

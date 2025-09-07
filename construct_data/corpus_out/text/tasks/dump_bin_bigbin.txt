@@ -1,0 +1,20 @@
+Dump Bin Bigbin - RoboTwin 2.0 Offical Document
+# Dump Bin Bigbin
+Description
+: Grab the small bin and pour the balls into the big bin.
+Average Steps
+: 265 (Aloha-AgileX, save_freq=15)
+Objects
+: 011_dustbin, 063_tabletrashbin
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+84%
+100%
+84%
+9%
+80%

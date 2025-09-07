@@ -1,0 +1,20 @@
+Open Laptop - RoboTwin 2.0 Offical Document
+# Open Laptop
+Description
+: Use one arm to open the laptop.
+Average Steps
+: 258 (Aloha-AgileX, save_freq=15)
+Objects
+: 015_laptop
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+82%
+92%
+77%
+23%
+51%

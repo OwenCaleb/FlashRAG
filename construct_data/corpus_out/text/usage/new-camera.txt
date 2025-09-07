@@ -1,0 +1,22 @@
+Configuring New Camera - RoboTwin 2.0 Offical Document
+Skip to content
+# Configurating New Camera ¶
+Modify
+task_config/_camera_config.yml
+(
+Github file
+), adding new camera new and configurate
+fov
+,
+h
+and
+w
+, such as:
+Demo_Camera:
+fovy: 56
+w: 224
+h: 224
+Finally, modify the camera type in the task config file.
+camera:
+head_camera_type: Demo_Camera
+wrist_camera_type: D435

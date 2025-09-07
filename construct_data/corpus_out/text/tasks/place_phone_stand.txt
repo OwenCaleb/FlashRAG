@@ -1,0 +1,20 @@
+Place Phone Stand - RoboTwin 2.0 Offical Document
+# Place Phone Stand
+Description
+: Pick up the phone and put it on the phone stand.
+Average Steps
+: 130 (Aloha-AgileX, save_freq=15)
+Objects
+: 077_phone, 078_phonestand
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+66%
+78%
+45%
+53%
+49%

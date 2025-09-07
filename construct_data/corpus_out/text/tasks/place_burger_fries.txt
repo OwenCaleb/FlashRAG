@@ -1,0 +1,20 @@
+Place Burger Fries - RoboTwin 2.0 Offical Document
+# Place Burger Fries
+Description
+: Use dual arm to pick the hamburg and frenchfries and put them onto the tray.
+Average Steps
+: 242 (Aloha-AgileX, save_freq=15)
+Objects
+: 005_french-fries, 006_hamburg, 008_tray
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+97%
+98%
+80%
+36%
+74%

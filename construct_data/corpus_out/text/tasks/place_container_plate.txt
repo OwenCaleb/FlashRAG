@@ -1,0 +1,20 @@
+Place Container Plate - RoboTwin 2.0 Offical Document
+# Place Container Plate
+Description
+: Place the container onto the plate.
+Average Steps
+: 156 (Aloha-AgileX, save_freq=15)
+Objects
+: 002_bowl, 003_plate, 021_cup
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+89%
+86%
+86%
+37%
+81%

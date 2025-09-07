@@ -1,0 +1,20 @@
+Stack Bowls Three - RoboTwin 2.0 Offical Document
+# Stack Bowls Three
+Description
+: Stack the three bowls on top of each other.
+Average Steps
+: 476 (Aloha-AgileX, save_freq=15)
+Objects
+: 002_bowl
+Embodiments
+Aloha-AgileX
+ARX-X5
+Franka-Panda
+Piper
+UR5-Wsg
+Data Generation Success Rate
+43%
+57%
+82%
+0%
+81%
